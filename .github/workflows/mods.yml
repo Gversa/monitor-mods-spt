@@ -1,0 +1,28 @@
+name: Checar mods
+on:
+  schedule:
+    - cron: "0 12,18,23 * * *"   # UTC: ≈ 9h, 15h e 20h em Brasília
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  checar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests beautifulsoup4
+      - run: python checar_mods.py
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+      - name: Salvar resultado
+        run: |
+          git config user.name "bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "atualiza mods"
+          git push
