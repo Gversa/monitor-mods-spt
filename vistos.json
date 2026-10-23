@@ -10,14 +10,20 @@
   "https://sp-mod.com/mod/3192/unlock-extractions": "Unlock Extractions",
   "https://sp-mod.com/mod/3190/bic-bind-in-container": "BiC - Bind in Container",
   "https://sp-mod.com/mod/3188/dailygunsmith": "DailyGunsmith",
-  "https://sp-mod.com/mod/3202/infil": "Infil"
+  "https://sp-mod.com/mod/3202/infil": "Infil",
+  "https://sp-mod.com/mod/3201/exponential-a-simple-global-xp-multiplier": "eXPonential! A Simple Global XP Multiplier"
  },
  "novos": [
+  {
+   "titulo": "eXPonential! A Simple Global XP Multiplier",
+   "link": "https://sp-mod.com/mod/3201/exponential-a-simple-global-xp-multiplier",
+   "data": "23/10/2026 19:17 UTC"
+  },
   {
    "titulo": "Infil",
    "link": "https://sp-mod.com/mod/3202/infil",
    "data": "23/10/2026 18:17 UTC"
   }
  ],
- "ultima_checagem": "23/10/2026 18:17 UTC"
+ "ultima_checagem": "23/10/2026 19:17 UTC"
 }
