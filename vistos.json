@@ -12,9 +12,33 @@
   "https://sp-mod.com/mod/3188/dailygunsmith": "DailyGunsmith",
   "https://sp-mod.com/mod/3202/infil": "Infil",
   "https://sp-mod.com/mod/3201/exponential-a-simple-global-xp-multiplier": "eXPonential! A Simple Global XP Multiplier",
-  "https://sp-mod.com/mod/3203/breath-fx": "Breath FX"
+  "https://sp-mod.com/mod/3203/breath-fx": "Breath FX",
+  "https://sp-mod.com/mod/3208/hardcore-progression": "Hardcore Progression",
+  "https://sp-mod.com/mod/3207/better-bepinex": "Better BepInEx",
+  "https://sp-mod.com/mod/3206/no-insurance-screen": "No Insurance Screen",
+  "https://sp-mod.com/mod/3205/pvp-spawner-addon-for-fika": "PvP Spawner - Addon for Fika"
  },
  "novos": [
+  {
+   "titulo": "PvP Spawner - Addon for Fika",
+   "link": "https://sp-mod.com/mod/3205/pvp-spawner-addon-for-fika",
+   "data": "24/10/2026 12:18 UTC"
+  },
+  {
+   "titulo": "No Insurance Screen",
+   "link": "https://sp-mod.com/mod/3206/no-insurance-screen",
+   "data": "24/10/2026 12:18 UTC"
+  },
+  {
+   "titulo": "Better BepInEx",
+   "link": "https://sp-mod.com/mod/3207/better-bepinex",
+   "data": "24/10/2026 12:18 UTC"
+  },
+  {
+   "titulo": "Hardcore Progression",
+   "link": "https://sp-mod.com/mod/3208/hardcore-progression",
+   "data": "24/10/2026 12:18 UTC"
+  },
   {
    "titulo": "Breath FX",
    "link": "https://sp-mod.com/mod/3203/breath-fx",
@@ -31,5 +55,5 @@
    "data": "23/10/2026 18:17 UTC"
   }
  ],
- "ultima_checagem": "23/10/2026 23:17 UTC"
+ "ultima_checagem": "24/10/2026 12:18 UTC"
 }
