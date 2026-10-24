@@ -16,9 +16,27 @@
   "https://sp-mod.com/mod/3208/hardcore-progression": "Hardcore Progression",
   "https://sp-mod.com/mod/3207/better-bepinex": "Better BepInEx",
   "https://sp-mod.com/mod/3206/no-insurance-screen": "No Insurance Screen",
-  "https://sp-mod.com/mod/3205/pvp-spawner-addon-for-fika": "PvP Spawner - Addon for Fika"
+  "https://sp-mod.com/mod/3205/pvp-spawner-addon-for-fika": "PvP Spawner - Addon for Fika",
+  "https://sp-mod.com/mod/3211/server-room-backport": "Server Room Backport",
+  "https://sp-mod.com/mod/3210/coop-quest-tracker": "Coop Quest Tracker",
+  "https://sp-mod.com/mod/3209/transit-ram-cleaner": "Transit Ram Cleaner"
  },
  "novos": [
+  {
+   "titulo": "Transit Ram Cleaner",
+   "link": "https://sp-mod.com/mod/3209/transit-ram-cleaner",
+   "data": "24/10/2026 23:12 UTC"
+  },
+  {
+   "titulo": "Coop Quest Tracker",
+   "link": "https://sp-mod.com/mod/3210/coop-quest-tracker",
+   "data": "24/10/2026 23:12 UTC"
+  },
+  {
+   "titulo": "Server Room Backport",
+   "link": "https://sp-mod.com/mod/3211/server-room-backport",
+   "data": "24/10/2026 23:12 UTC"
+  },
   {
    "titulo": "PvP Spawner - Addon for Fika",
    "link": "https://sp-mod.com/mod/3205/pvp-spawner-addon-for-fika",
@@ -55,5 +73,5 @@
    "data": "23/10/2026 18:17 UTC"
   }
  ],
- "ultima_checagem": "24/10/2026 18:14 UTC"
+ "ultima_checagem": "24/10/2026 23:12 UTC"
 }
