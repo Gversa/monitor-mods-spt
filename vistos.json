@@ -21,9 +21,21 @@
   "https://sp-mod.com/mod/3210/coop-quest-tracker": "Coop Quest Tracker",
   "https://sp-mod.com/mod/3209/transit-ram-cleaner": "Transit Ram Cleaner",
   "https://sp-mod.com/mod/3213/ebz7-thestalker": "ebz7-TheStalker",
-  "https://sp-mod.com/mod/3212/rippers-casino": "Rippers Casino"
+  "https://sp-mod.com/mod/3212/rippers-casino": "Rippers Casino",
+  "https://sp-mod.com/mod/3217/gear-enhance": "Gear Enhance",
+  "https://sp-mod.com/mod/3216/make-magnifier-great-again": "Make Magnifier Great Again"
  },
  "novos": [
+  {
+   "titulo": "Make Magnifier Great Again",
+   "link": "https://sp-mod.com/mod/3216/make-magnifier-great-again",
+   "data": "26/10/2026 14:18 UTC"
+  },
+  {
+   "titulo": "Gear Enhance",
+   "link": "https://sp-mod.com/mod/3217/gear-enhance",
+   "data": "26/10/2026 14:18 UTC"
+  },
   {
    "titulo": "Rippers Casino",
    "link": "https://sp-mod.com/mod/3212/rippers-casino",
@@ -85,5 +97,5 @@
    "data": "23/10/2026 18:17 UTC"
   }
  ],
- "ultima_checagem": "25/10/2026 23:13 UTC"
+ "ultima_checagem": "26/10/2026 14:18 UTC"
 }
