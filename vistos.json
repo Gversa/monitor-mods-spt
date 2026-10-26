@@ -23,9 +23,21 @@
   "https://sp-mod.com/mod/3213/ebz7-thestalker": "ebz7-TheStalker",
   "https://sp-mod.com/mod/3212/rippers-casino": "Rippers Casino",
   "https://sp-mod.com/mod/3217/gear-enhance": "Gear Enhance",
-  "https://sp-mod.com/mod/3216/make-magnifier-great-again": "Make Magnifier Great Again"
+  "https://sp-mod.com/mod/3216/make-magnifier-great-again": "Make Magnifier Great Again",
+  "https://sp-mod.com/mod/3219/rzmedtiming-surgery-medical-animation-sync": "RZMedTiming — surgery & medical animation sync",
+  "https://sp-mod.com/mod/3218/eventrotator": "EventRotator"
  },
  "novos": [
+  {
+   "titulo": "EventRotator",
+   "link": "https://sp-mod.com/mod/3218/eventrotator",
+   "data": "26/10/2026 18:28 UTC"
+  },
+  {
+   "titulo": "RZMedTiming — surgery & medical animation sync",
+   "link": "https://sp-mod.com/mod/3219/rzmedtiming-surgery-medical-animation-sync",
+   "data": "26/10/2026 18:28 UTC"
+  },
   {
    "titulo": "Make Magnifier Great Again",
    "link": "https://sp-mod.com/mod/3216/make-magnifier-great-again",
@@ -97,5 +109,5 @@
    "data": "23/10/2026 18:17 UTC"
   }
  ],
- "ultima_checagem": "26/10/2026 14:18 UTC"
+ "ultima_checagem": "26/10/2026 18:28 UTC"
 }
