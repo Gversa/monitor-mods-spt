@@ -25,9 +25,21 @@
   "https://sp-mod.com/mod/3217/gear-enhance": "Gear Enhance",
   "https://sp-mod.com/mod/3216/make-magnifier-great-again": "Make Magnifier Great Again",
   "https://sp-mod.com/mod/3219/rzmedtiming-surgery-medical-animation-sync": "RZMedTiming — surgery & medical animation sync",
-  "https://sp-mod.com/mod/3218/eventrotator": "EventRotator"
+  "https://sp-mod.com/mod/3218/eventrotator": "EventRotator",
+  "https://sp-mod.com/mod/3215/custom-wishlist-categories": "Custom Wishlist Categories",
+  "https://sp-mod.com/mod/3214/quest-glow": "Quest Glow"
  },
  "novos": [
+  {
+   "titulo": "Quest Glow",
+   "link": "https://sp-mod.com/mod/3214/quest-glow",
+   "data": "26/10/2026 23:19 UTC"
+  },
+  {
+   "titulo": "Custom Wishlist Categories",
+   "link": "https://sp-mod.com/mod/3215/custom-wishlist-categories",
+   "data": "26/10/2026 23:19 UTC"
+  },
   {
    "titulo": "EventRotator",
    "link": "https://sp-mod.com/mod/3218/eventrotator",
@@ -109,5 +121,5 @@
    "data": "23/10/2026 18:17 UTC"
   }
  ],
- "ultima_checagem": "26/10/2026 18:28 UTC"
+ "ultima_checagem": "26/10/2026 23:19 UTC"
 }
