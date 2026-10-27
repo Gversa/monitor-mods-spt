@@ -27,9 +27,33 @@
   "https://sp-mod.com/mod/3219/rzmedtiming-surgery-medical-animation-sync": "RZMedTiming — surgery & medical animation sync",
   "https://sp-mod.com/mod/3218/eventrotator": "EventRotator",
   "https://sp-mod.com/mod/3215/custom-wishlist-categories": "Custom Wishlist Categories",
-  "https://sp-mod.com/mod/3214/quest-glow": "Quest Glow"
+  "https://sp-mod.com/mod/3214/quest-glow": "Quest Glow",
+  "https://sp-mod.com/mod/3224/balaclava-mask-for-weaponcamoandstickers-mod": "Balaclava mask for WeaponCamoAndStickers mod",
+  "https://sp-mod.com/mod/3223/pack-a-punch-hideout-module-spt": "Pack A Punch Hideout Module - SPT",
+  "https://sp-mod.com/mod/3222/insurance-fraud": "Insurance Fraud",
+  "https://sp-mod.com/mod/3221/tracesix-full-raytracing-and-voxel-gi": "TraceSix - Full Raytracing and Voxel GI"
  },
  "novos": [
+  {
+   "titulo": "TraceSix - Full Raytracing and Voxel GI",
+   "link": "https://sp-mod.com/mod/3221/tracesix-full-raytracing-and-voxel-gi",
+   "data": "27/10/2026 12:28 UTC"
+  },
+  {
+   "titulo": "Insurance Fraud",
+   "link": "https://sp-mod.com/mod/3222/insurance-fraud",
+   "data": "27/10/2026 12:28 UTC"
+  },
+  {
+   "titulo": "Pack A Punch Hideout Module - SPT",
+   "link": "https://sp-mod.com/mod/3223/pack-a-punch-hideout-module-spt",
+   "data": "27/10/2026 12:28 UTC"
+  },
+  {
+   "titulo": "Balaclava mask for WeaponCamoAndStickers mod",
+   "link": "https://sp-mod.com/mod/3224/balaclava-mask-for-weaponcamoandstickers-mod",
+   "data": "27/10/2026 12:28 UTC"
+  },
   {
    "titulo": "Quest Glow",
    "link": "https://sp-mod.com/mod/3214/quest-glow",
@@ -121,5 +145,5 @@
    "data": "23/10/2026 18:17 UTC"
   }
  ],
- "ultima_checagem": "26/10/2026 23:19 UTC"
+ "ultima_checagem": "27/10/2026 12:28 UTC"
 }
