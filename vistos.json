@@ -31,9 +31,27 @@
   "https://sp-mod.com/mod/3224/balaclava-mask-for-weaponcamoandstickers-mod": "Balaclava mask for WeaponCamoAndStickers mod",
   "https://sp-mod.com/mod/3223/pack-a-punch-hideout-module-spt": "Pack A Punch Hideout Module - SPT",
   "https://sp-mod.com/mod/3222/insurance-fraud": "Insurance Fraud",
-  "https://sp-mod.com/mod/3221/tracesix-full-raytracing-and-voxel-gi": "TraceSix - Full Raytracing and Voxel GI"
+  "https://sp-mod.com/mod/3221/tracesix-full-raytracing-and-voxel-gi": "TraceSix - Full Raytracing and Voxel GI",
+  "https://sp-mod.com/mod/3226/zm-thundergun": "ZM_Thundergun",
+  "https://sp-mod.com/mod/3225/rescue-noclip": "Rescue NoClip",
+  "https://sp-mod.com/mod/3223/pack-a-punch-hideout-module": "Pack A Punch Hideout Module"
  },
  "novos": [
+  {
+   "titulo": "Pack A Punch Hideout Module",
+   "link": "https://sp-mod.com/mod/3223/pack-a-punch-hideout-module",
+   "data": "27/10/2026 18:31 UTC"
+  },
+  {
+   "titulo": "Rescue NoClip",
+   "link": "https://sp-mod.com/mod/3225/rescue-noclip",
+   "data": "27/10/2026 18:31 UTC"
+  },
+  {
+   "titulo": "ZM_Thundergun",
+   "link": "https://sp-mod.com/mod/3226/zm-thundergun",
+   "data": "27/10/2026 18:31 UTC"
+  },
   {
    "titulo": "TraceSix - Full Raytracing and Voxel GI",
    "link": "https://sp-mod.com/mod/3221/tracesix-full-raytracing-and-voxel-gi",
@@ -145,5 +163,5 @@
    "data": "23/10/2026 18:17 UTC"
   }
  ],
- "ultima_checagem": "27/10/2026 12:28 UTC"
+ "ultima_checagem": "27/10/2026 18:31 UTC"
 }
