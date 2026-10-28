@@ -39,9 +39,15 @@
   "https://sp-mod.com/mod/3230/wrist-accessories-wip": "Wrist Accessories (WIP)",
   "https://sp-mod.com/mod/3229/zm-raygun": "ZM_Raygun",
   "https://sp-mod.com/mod/3228/price-index": "Price Index",
-  "https://sp-mod.com/mod/3227/flogger": "Flogger"
+  "https://sp-mod.com/mod/3227/flogger": "Flogger",
+  "https://sp-mod.com/mod/3232/zezinhos-past-present-event-selector-ppes": "zezinho's Past & Present Event Selector (PPES)"
  },
  "novos": [
+  {
+   "titulo": "zezinho's Past & Present Event Selector (PPES)",
+   "link": "https://sp-mod.com/mod/3232/zezinhos-past-present-event-selector-ppes",
+   "data": "28/10/2026 18:30 UTC"
+  },
   {
    "titulo": "Flogger",
    "link": "https://sp-mod.com/mod/3227/flogger",
@@ -193,5 +199,5 @@
    "data": "23/10/2026 18:17 UTC"
   }
  ],
- "ultima_checagem": "28/10/2026 12:31 UTC"
+ "ultima_checagem": "28/10/2026 18:30 UTC"
 }
