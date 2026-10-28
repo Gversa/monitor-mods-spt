@@ -34,9 +34,39 @@
   "https://sp-mod.com/mod/3221/tracesix-full-raytracing-and-voxel-gi": "TraceSix - Full Raytracing and Voxel GI",
   "https://sp-mod.com/mod/3226/zm-thundergun": "ZM_Thundergun",
   "https://sp-mod.com/mod/3225/rescue-noclip": "Rescue NoClip",
-  "https://sp-mod.com/mod/3223/pack-a-punch-hideout-module": "Pack A Punch Hideout Module"
+  "https://sp-mod.com/mod/3223/pack-a-punch-hideout-module": "Pack A Punch Hideout Module",
+  "https://sp-mod.com/mod/3231/lawnmower": "Lawnmower",
+  "https://sp-mod.com/mod/3230/wrist-accessories-wip": "Wrist Accessories (WIP)",
+  "https://sp-mod.com/mod/3229/zm-raygun": "ZM_Raygun",
+  "https://sp-mod.com/mod/3228/price-index": "Price Index",
+  "https://sp-mod.com/mod/3227/flogger": "Flogger"
  },
  "novos": [
+  {
+   "titulo": "Flogger",
+   "link": "https://sp-mod.com/mod/3227/flogger",
+   "data": "28/10/2026 12:31 UTC"
+  },
+  {
+   "titulo": "Price Index",
+   "link": "https://sp-mod.com/mod/3228/price-index",
+   "data": "28/10/2026 12:31 UTC"
+  },
+  {
+   "titulo": "ZM_Raygun",
+   "link": "https://sp-mod.com/mod/3229/zm-raygun",
+   "data": "28/10/2026 12:31 UTC"
+  },
+  {
+   "titulo": "Wrist Accessories (WIP)",
+   "link": "https://sp-mod.com/mod/3230/wrist-accessories-wip",
+   "data": "28/10/2026 12:31 UTC"
+  },
+  {
+   "titulo": "Lawnmower",
+   "link": "https://sp-mod.com/mod/3231/lawnmower",
+   "data": "28/10/2026 12:31 UTC"
+  },
   {
    "titulo": "Pack A Punch Hideout Module",
    "link": "https://sp-mod.com/mod/3223/pack-a-punch-hideout-module",
@@ -163,5 +193,5 @@
    "data": "23/10/2026 18:17 UTC"
   }
  ],
- "ultima_checagem": "27/10/2026 23:21 UTC"
+ "ultima_checagem": "28/10/2026 12:31 UTC"
 }
