@@ -1,7 +1,7 @@
 name: Checar mods
 on:
   schedule:
-    - cron: "0 12,18,23 * * *"   # UTC: ≈ 9h, 15h e 20h em Brasília
+    - cron: "0 12,14,16,18,23 * * *"   # UTC: ≈ 9h, 11h, 13h, 15h e 20h em Brasília
   workflow_dispatch:
 
 permissions:
