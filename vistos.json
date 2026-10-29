@@ -42,9 +42,15 @@
   "https://sp-mod.com/mod/3227/flogger": "Flogger",
   "https://sp-mod.com/mod/3232/zezinhos-past-present-event-selector-ppes": "zezinho's Past & Present Event Selector (PPES)",
   "https://sp-mod.com/mod/3233/botmon-trend": "Botmon Trend",
-  "https://sp-mod.com/mod/3234/plate-durability": "Plate Durability"
+  "https://sp-mod.com/mod/3234/plate-durability": "Plate Durability",
+  "https://sp-mod.com/mod/3235/halloween-background-backport": "Halloween Background Backport"
  },
  "novos": [
+  {
+   "titulo": "Halloween Background Backport",
+   "link": "https://sp-mod.com/mod/3235/halloween-background-backport",
+   "data": "29/10/2026 23:25 UTC"
+  },
   {
    "titulo": "Plate Durability",
    "link": "https://sp-mod.com/mod/3234/plate-durability",
@@ -216,5 +222,5 @@
    "data": "23/10/2026 18:17 UTC"
   }
  ],
- "ultima_checagem": "29/10/2026 20:52 UTC"
+ "ultima_checagem": "29/10/2026 23:25 UTC"
 }
