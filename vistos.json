@@ -41,10 +41,15 @@
   "https://sp-mod.com/mod/3228/price-index": "Price Index",
   "https://sp-mod.com/mod/3227/flogger": "Flogger",
   "https://sp-mod.com/mod/3232/zezinhos-past-present-event-selector-ppes": "zezinho's Past & Present Event Selector (PPES)",
-  "https://sp-mod.com/mod/3233/botmon-trend": "Botmon Trend"
-
+  "https://sp-mod.com/mod/3233/botmon-trend": "Botmon Trend",
+  "https://sp-mod.com/mod/3234/plate-durability": "Plate Durability"
  },
  "novos": [
+  {
+   "titulo": "Plate Durability",
+   "link": "https://sp-mod.com/mod/3234/plate-durability",
+   "data": "29/10/2026 20:52 UTC"
+  },
   {
    "titulo": "Plate Durability",
    "link": "https://sp-mod.com/mod/3234/plate-durability",
@@ -211,5 +216,5 @@
    "data": "23/10/2026 18:17 UTC"
   }
  ],
- "ultima_checagem": "29/10/2026 18:33 UTC"
+ "ultima_checagem": "29/10/2026 20:52 UTC"
 }
