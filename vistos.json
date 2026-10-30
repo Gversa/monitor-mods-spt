@@ -47,9 +47,15 @@
   "https://sp-mod.com/mod/3239/fov-unlock": "FOV unlock",
   "https://sp-mod.com/mod/3238/zezinhos-train-timer": "zezinho's Train Timer",
   "https://sp-mod.com/mod/3237/euphoria-style-ragdolls-wip": "Euphoria-style ragdolls (WIP)",
-  "https://sp-mod.com/mod/3236/return-of-thunderstorms": "Return Of Thunderstorms"
+  "https://sp-mod.com/mod/3236/return-of-thunderstorms": "Return Of Thunderstorms",
+  "https://sp-mod.com/mod/3240/painkiller-duration-stacking": "Painkiller Duration Stacking"
  },
  "novos": [
+  {
+   "titulo": "Painkiller Duration Stacking",
+   "link": "https://sp-mod.com/mod/3240/painkiller-duration-stacking",
+   "data": "30/10/2026 16:36 UTC"
+  },
   {
    "titulo": "Return Of Thunderstorms",
    "link": "https://sp-mod.com/mod/3236/return-of-thunderstorms",
@@ -246,5 +252,5 @@
    "data": "23/10/2026 18:17 UTC"
   }
  ],
- "ultima_checagem": "30/10/2026 14:44 UTC"
+ "ultima_checagem": "30/10/2026 16:36 UTC"
 }
