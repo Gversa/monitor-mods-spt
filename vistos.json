@@ -43,9 +43,33 @@
   "https://sp-mod.com/mod/3232/zezinhos-past-present-event-selector-ppes": "zezinho's Past & Present Event Selector (PPES)",
   "https://sp-mod.com/mod/3233/botmon-trend": "Botmon Trend",
   "https://sp-mod.com/mod/3234/plate-durability": "Plate Durability",
-  "https://sp-mod.com/mod/3235/halloween-background-backport": "Halloween Background Backport"
+  "https://sp-mod.com/mod/3235/halloween-background-backport": "Halloween Background Backport",
+  "https://sp-mod.com/mod/3239/fov-unlock": "FOV unlock",
+  "https://sp-mod.com/mod/3238/zezinhos-train-timer": "zezinho's Train Timer",
+  "https://sp-mod.com/mod/3237/euphoria-style-ragdolls-wip": "Euphoria-style ragdolls (WIP)",
+  "https://sp-mod.com/mod/3236/return-of-thunderstorms": "Return Of Thunderstorms"
  },
  "novos": [
+  {
+   "titulo": "Return Of Thunderstorms",
+   "link": "https://sp-mod.com/mod/3236/return-of-thunderstorms",
+   "data": "30/10/2026 12:33 UTC"
+  },
+  {
+   "titulo": "Euphoria-style ragdolls (WIP)",
+   "link": "https://sp-mod.com/mod/3237/euphoria-style-ragdolls-wip",
+   "data": "30/10/2026 12:33 UTC"
+  },
+  {
+   "titulo": "zezinho's Train Timer",
+   "link": "https://sp-mod.com/mod/3238/zezinhos-train-timer",
+   "data": "30/10/2026 12:33 UTC"
+  },
+  {
+   "titulo": "FOV unlock",
+   "link": "https://sp-mod.com/mod/3239/fov-unlock",
+   "data": "30/10/2026 12:33 UTC"
+  },
   {
    "titulo": "Halloween Background Backport",
    "link": "https://sp-mod.com/mod/3235/halloween-background-backport",
@@ -222,5 +246,5 @@
    "data": "23/10/2026 18:17 UTC"
   }
  ],
- "ultima_checagem": "29/10/2026 23:25 UTC"
+ "ultima_checagem": "30/10/2026 12:33 UTC"
 }
