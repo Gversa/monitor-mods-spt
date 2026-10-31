@@ -50,9 +50,39 @@
   "https://sp-mod.com/mod/3236/return-of-thunderstorms": "Return Of Thunderstorms",
   "https://sp-mod.com/mod/3240/painkiller-duration-stacking": "Painkiller Duration Stacking",
   "https://sp-mod.com/mod/3242/zezinhos-shopping-list": "zezinho's Shopping List",
-  "https://sp-mod.com/mod/3241/forecaster": "Forecaster"
+  "https://sp-mod.com/mod/3241/forecaster": "Forecaster",
+  "https://sp-mod.com/mod/3247/gym-rat": "Gym Rat",
+  "https://sp-mod.com/mod/3246/railtime": "RailTime",
+  "https://sp-mod.com/mod/3245/duckcam": "DuckCam",
+  "https://sp-mod.com/mod/3244/im-not-festive": "I'm Not Festive",
+  "https://sp-mod.com/mod/3243/transmogged": "transMOGGED"
  },
  "novos": [
+  {
+   "titulo": "transMOGGED",
+   "link": "https://sp-mod.com/mod/3243/transmogged",
+   "data": "31/10/2026 12:29 UTC"
+  },
+  {
+   "titulo": "I'm Not Festive",
+   "link": "https://sp-mod.com/mod/3244/im-not-festive",
+   "data": "31/10/2026 12:29 UTC"
+  },
+  {
+   "titulo": "DuckCam",
+   "link": "https://sp-mod.com/mod/3245/duckcam",
+   "data": "31/10/2026 12:29 UTC"
+  },
+  {
+   "titulo": "RailTime",
+   "link": "https://sp-mod.com/mod/3246/railtime",
+   "data": "31/10/2026 12:29 UTC"
+  },
+  {
+   "titulo": "Gym Rat",
+   "link": "https://sp-mod.com/mod/3247/gym-rat",
+   "data": "31/10/2026 12:29 UTC"
+  },
   {
    "titulo": "Forecaster",
    "link": "https://sp-mod.com/mod/3241/forecaster",
@@ -264,5 +294,5 @@
    "data": "23/10/2026 18:17 UTC"
   }
  ],
- "ultima_checagem": "30/10/2026 23:24 UTC"
+ "ultima_checagem": "31/10/2026 12:29 UTC"
 }
