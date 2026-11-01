@@ -59,9 +59,27 @@
   "https://sp-mod.com/mod/3249/access-granted": "ACCESS_GRANTED",
   "https://sp-mod.com/mod/3248/traderscarcity": "TraderScarcity",
   "https://sp-mod.com/mod/3250/trueview-overhaul": "TrueView Overhaul",
-  "https://sp-mod.com/mod/3253/liveraid": "LiveRaid"
+  "https://sp-mod.com/mod/3253/liveraid": "LiveRaid",
+  "https://sp-mod.com/mod/3257/hideout-extensions": "Hideout Extensions",
+  "https://sp-mod.com/mod/3256/k9-companion": "K9 Companion",
+  "https://sp-mod.com/mod/3254/hideoutautobuy": "HideoutAutoBuy"
  },
  "novos": [
+  {
+   "titulo": "HideoutAutoBuy",
+   "link": "https://sp-mod.com/mod/3254/hideoutautobuy",
+   "data": "01/11/2026 23:24 UTC"
+  },
+  {
+   "titulo": "K9 Companion",
+   "link": "https://sp-mod.com/mod/3256/k9-companion",
+   "data": "01/11/2026 23:24 UTC"
+  },
+  {
+   "titulo": "Hideout Extensions",
+   "link": "https://sp-mod.com/mod/3257/hideout-extensions",
+   "data": "01/11/2026 23:24 UTC"
+  },
   {
    "titulo": "LiveRaid",
    "link": "https://sp-mod.com/mod/3253/liveraid",
@@ -296,22 +314,7 @@
    "titulo": "Better BepInEx",
    "link": "https://sp-mod.com/mod/3207/better-bepinex",
    "data": "24/10/2026 12:18 UTC"
-  },
-  {
-   "titulo": "Hardcore Progression",
-   "link": "https://sp-mod.com/mod/3208/hardcore-progression",
-   "data": "24/10/2026 12:18 UTC"
-  },
-  {
-   "titulo": "Breath FX",
-   "link": "https://sp-mod.com/mod/3203/breath-fx",
-   "data": "23/10/2026 23:17 UTC"
-  },
-  {
-   "titulo": "eXPonential! A Simple Global XP Multiplier",
-   "link": "https://sp-mod.com/mod/3201/exponential-a-simple-global-xp-multiplier",
-   "data": "23/10/2026 19:17 UTC"
   }
  ],
- "ultima_checagem": "01/11/2026 18:26 UTC"
+ "ultima_checagem": "01/11/2026 23:24 UTC"
 }
