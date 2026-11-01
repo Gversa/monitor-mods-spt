@@ -57,9 +57,15 @@
   "https://sp-mod.com/mod/3244/im-not-festive": "I'm Not Festive",
   "https://sp-mod.com/mod/3243/transmogged": "transMOGGED",
   "https://sp-mod.com/mod/3249/access-granted": "ACCESS_GRANTED",
-  "https://sp-mod.com/mod/3248/traderscarcity": "TraderScarcity"
+  "https://sp-mod.com/mod/3248/traderscarcity": "TraderScarcity",
+  "https://sp-mod.com/mod/3250/trueview-overhaul": "TrueView Overhaul"
  },
  "novos": [
+  {
+   "titulo": "TrueView Overhaul",
+   "link": "https://sp-mod.com/mod/3250/trueview-overhaul",
+   "data": "01/11/2026 12:31 UTC"
+  },
   {
    "titulo": "TraderScarcity",
    "link": "https://sp-mod.com/mod/3248/traderscarcity",
@@ -306,5 +312,5 @@
    "data": "23/10/2026 18:17 UTC"
   }
  ],
- "ultima_checagem": "31/10/2026 23:23 UTC"
+ "ultima_checagem": "01/11/2026 12:31 UTC"
 }
