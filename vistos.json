@@ -58,9 +58,15 @@
   "https://sp-mod.com/mod/3243/transmogged": "transMOGGED",
   "https://sp-mod.com/mod/3249/access-granted": "ACCESS_GRANTED",
   "https://sp-mod.com/mod/3248/traderscarcity": "TraderScarcity",
-  "https://sp-mod.com/mod/3250/trueview-overhaul": "TrueView Overhaul"
+  "https://sp-mod.com/mod/3250/trueview-overhaul": "TrueView Overhaul",
+  "https://sp-mod.com/mod/3253/liveraid": "LiveRaid"
  },
  "novos": [
+  {
+   "titulo": "LiveRaid",
+   "link": "https://sp-mod.com/mod/3253/liveraid",
+   "data": "01/11/2026 16:26 UTC"
+  },
   {
    "titulo": "TrueView Overhaul",
    "link": "https://sp-mod.com/mod/3250/trueview-overhaul",
@@ -305,12 +311,7 @@
    "titulo": "eXPonential! A Simple Global XP Multiplier",
    "link": "https://sp-mod.com/mod/3201/exponential-a-simple-global-xp-multiplier",
    "data": "23/10/2026 19:17 UTC"
-  },
-  {
-   "titulo": "Infil",
-   "link": "https://sp-mod.com/mod/3202/infil",
-   "data": "23/10/2026 18:17 UTC"
   }
  ],
- "ultima_checagem": "01/11/2026 14:27 UTC"
+ "ultima_checagem": "01/11/2026 16:26 UTC"
 }
