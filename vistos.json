@@ -65,9 +65,15 @@
   "https://sp-mod.com/mod/3254/hideoutautobuy": "HideoutAutoBuy",
   "https://sp-mod.com/mod/3260/loot-peleng": "Loot Peleng",
   "https://sp-mod.com/mod/3259/whoopsies-raid-resetter": "Whoopsies! - Raid Resetter",
-  "https://sp-mod.com/mod/3258/better-cursors": "Better Cursors"
+  "https://sp-mod.com/mod/3258/better-cursors": "Better Cursors",
+  "https://sp-mod.com/mod/3262/zezinhos-cultist-circle-planner": "zezinho's Cultist Circle Planner"
  },
  "novos": [
+  {
+   "titulo": "zezinho's Cultist Circle Planner",
+   "link": "https://sp-mod.com/mod/3262/zezinhos-cultist-circle-planner",
+   "data": "02/11/2026 18:43 UTC"
+  },
   {
    "titulo": "Better Cursors",
    "link": "https://sp-mod.com/mod/3258/better-cursors",
@@ -312,12 +318,7 @@
    "titulo": "Coop Quest Tracker",
    "link": "https://sp-mod.com/mod/3210/coop-quest-tracker",
    "data": "24/10/2026 23:12 UTC"
-  },
-  {
-   "titulo": "Server Room Backport",
-   "link": "https://sp-mod.com/mod/3211/server-room-backport",
-   "data": "24/10/2026 23:12 UTC"
   }
  ],
- "ultima_checagem": "02/11/2026 16:51 UTC"
+ "ultima_checagem": "02/11/2026 18:43 UTC"
 }
