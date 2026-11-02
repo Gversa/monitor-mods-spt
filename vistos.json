@@ -62,9 +62,27 @@
   "https://sp-mod.com/mod/3253/liveraid": "LiveRaid",
   "https://sp-mod.com/mod/3257/hideout-extensions": "Hideout Extensions",
   "https://sp-mod.com/mod/3256/k9-companion": "K9 Companion",
-  "https://sp-mod.com/mod/3254/hideoutautobuy": "HideoutAutoBuy"
+  "https://sp-mod.com/mod/3254/hideoutautobuy": "HideoutAutoBuy",
+  "https://sp-mod.com/mod/3260/loot-peleng": "Loot Peleng",
+  "https://sp-mod.com/mod/3259/whoopsies-raid-resetter": "Whoopsies! - Raid Resetter",
+  "https://sp-mod.com/mod/3258/better-cursors": "Better Cursors"
  },
  "novos": [
+  {
+   "titulo": "Better Cursors",
+   "link": "https://sp-mod.com/mod/3258/better-cursors",
+   "data": "02/11/2026 12:46 UTC"
+  },
+  {
+   "titulo": "Whoopsies! - Raid Resetter",
+   "link": "https://sp-mod.com/mod/3259/whoopsies-raid-resetter",
+   "data": "02/11/2026 12:46 UTC"
+  },
+  {
+   "titulo": "Loot Peleng",
+   "link": "https://sp-mod.com/mod/3260/loot-peleng",
+   "data": "02/11/2026 12:46 UTC"
+  },
   {
    "titulo": "HideoutAutoBuy",
    "link": "https://sp-mod.com/mod/3254/hideoutautobuy",
@@ -299,22 +317,7 @@
    "titulo": "Server Room Backport",
    "link": "https://sp-mod.com/mod/3211/server-room-backport",
    "data": "24/10/2026 23:12 UTC"
-  },
-  {
-   "titulo": "PvP Spawner - Addon for Fika",
-   "link": "https://sp-mod.com/mod/3205/pvp-spawner-addon-for-fika",
-   "data": "24/10/2026 12:18 UTC"
-  },
-  {
-   "titulo": "No Insurance Screen",
-   "link": "https://sp-mod.com/mod/3206/no-insurance-screen",
-   "data": "24/10/2026 12:18 UTC"
-  },
-  {
-   "titulo": "Better BepInEx",
-   "link": "https://sp-mod.com/mod/3207/better-bepinex",
-   "data": "24/10/2026 12:18 UTC"
   }
  ],
- "ultima_checagem": "01/11/2026 23:24 UTC"
+ "ultima_checagem": "02/11/2026 12:46 UTC"
 }
