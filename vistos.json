@@ -66,9 +66,33 @@
   "https://sp-mod.com/mod/3260/loot-peleng": "Loot Peleng",
   "https://sp-mod.com/mod/3259/whoopsies-raid-resetter": "Whoopsies! - Raid Resetter",
   "https://sp-mod.com/mod/3258/better-cursors": "Better Cursors",
-  "https://sp-mod.com/mod/3262/zezinhos-cultist-circle-planner": "zezinho's Cultist Circle Planner"
+  "https://sp-mod.com/mod/3262/zezinhos-cultist-circle-planner": "zezinho's Cultist Circle Planner",
+  "https://sp-mod.com/mod/3265/v-os-gigapmc-for-tushanka-enjoyers": "[V_OS] GigaPMC - For TUSHANKA Enjoyers!",
+  "https://sp-mod.com/mod/3264/v-os-scavtime-never-be-late-for-a-raid": "[V_OS] ScavTime - Never be late for a Raid!",
+  "https://sp-mod.com/mod/3261/pbt-progressive-bot-profiles": "PBT - Progressive Bot Profiles",
+  "https://sp-mod.com/mod/3255/escape-from-borderlands": "Escape From Borderlands"
  },
  "novos": [
+  {
+   "titulo": "Escape From Borderlands",
+   "link": "https://sp-mod.com/mod/3255/escape-from-borderlands",
+   "data": "02/11/2026 23:27 UTC"
+  },
+  {
+   "titulo": "PBT - Progressive Bot Profiles",
+   "link": "https://sp-mod.com/mod/3261/pbt-progressive-bot-profiles",
+   "data": "02/11/2026 23:27 UTC"
+  },
+  {
+   "titulo": "[V_OS] ScavTime - Never be late for a Raid!",
+   "link": "https://sp-mod.com/mod/3264/v-os-scavtime-never-be-late-for-a-raid",
+   "data": "02/11/2026 23:27 UTC"
+  },
+  {
+   "titulo": "[V_OS] GigaPMC - For TUSHANKA Enjoyers!",
+   "link": "https://sp-mod.com/mod/3265/v-os-gigapmc-for-tushanka-enjoyers",
+   "data": "02/11/2026 23:27 UTC"
+  },
   {
    "titulo": "zezinho's Cultist Circle Planner",
    "link": "https://sp-mod.com/mod/3262/zezinhos-cultist-circle-planner",
@@ -298,27 +322,7 @@
    "titulo": "Gear Enhance",
    "link": "https://sp-mod.com/mod/3217/gear-enhance",
    "data": "26/10/2026 14:18 UTC"
-  },
-  {
-   "titulo": "Rippers Casino",
-   "link": "https://sp-mod.com/mod/3212/rippers-casino",
-   "data": "25/10/2026 12:18 UTC"
-  },
-  {
-   "titulo": "ebz7-TheStalker",
-   "link": "https://sp-mod.com/mod/3213/ebz7-thestalker",
-   "data": "25/10/2026 12:18 UTC"
-  },
-  {
-   "titulo": "Transit Ram Cleaner",
-   "link": "https://sp-mod.com/mod/3209/transit-ram-cleaner",
-   "data": "24/10/2026 23:12 UTC"
-  },
-  {
-   "titulo": "Coop Quest Tracker",
-   "link": "https://sp-mod.com/mod/3210/coop-quest-tracker",
-   "data": "24/10/2026 23:12 UTC"
   }
  ],
- "ultima_checagem": "02/11/2026 18:43 UTC"
+ "ultima_checagem": "02/11/2026 23:27 UTC"
 }
