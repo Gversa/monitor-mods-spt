@@ -91,9 +91,15 @@
   "https://sp-mod.com/mod/3276/beutetresor-loot-safe": "Beutetresor (Loot Safe)",
   "https://sp-mod.com/mod/3275/autolaufen-auto-run": "AutoLaufen (Auto Run)",
   "https://sp-mod.com/mod/3289/infrastructure-decay": "Infrastructure Decay",
-  "https://sp-mod.com/mod/3288/aufgabengepaeck-quest-luggage-quest-case": "AufgabenGepaeck (Quest Luggage + Quest Case)"
+  "https://sp-mod.com/mod/3288/aufgabengepaeck-quest-luggage-quest-case": "AufgabenGepaeck (Quest Luggage + Quest Case)",
+  "https://sp-mod.com/mod/3290/raid-roulette-beta": "Raid Roulette [Beta]"
  },
  "novos": [
+  {
+   "titulo": "Raid Roulette [Beta]",
+   "link": "https://sp-mod.com/mod/3290/raid-roulette-beta",
+   "data": "03/11/2026 18:37 UTC"
+  },
   {
    "titulo": "AufgabenGepaeck (Quest Luggage + Quest Case)",
    "link": "https://sp-mod.com/mod/3288/aufgabengepaeck-quest-luggage-quest-case",
@@ -338,12 +344,7 @@
    "titulo": "Halloween Background Backport",
    "link": "https://sp-mod.com/mod/3235/halloween-background-backport",
    "data": "29/10/2026 23:25 UTC"
-  },
-  {
-   "titulo": "Plate Durability",
-   "link": "https://sp-mod.com/mod/3234/plate-durability",
-   "data": "29/10/2026 20:52 UTC"
   }
  ],
- "ultima_checagem": "03/11/2026 16:42 UTC"
+ "ultima_checagem": "03/11/2026 18:37 UTC"
 }
