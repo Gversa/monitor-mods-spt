@@ -78,9 +78,75 @@
   "https://sp-mod.com/mod/3268/tactical-reload-benelli-m3-s90": "Tactical Reload - Benelli M3 S90",
   "https://sp-mod.com/mod/3267/favoritemusicplayer": "FavoriteMusicPlayer",
   "https://sp-mod.com/mod/3266/classified": "CLASSIFIED",
-  "https://sp-mod.com/mod/3263/cursed-things": "Cursed Things"
+  "https://sp-mod.com/mod/3263/cursed-things": "Cursed Things",
+  "https://sp-mod.com/mod/3286/schalldaempferfueralle-suppressors-for-all": "SchalldaempferFuerAlle (Suppressors for All)",
+  "https://sp-mod.com/mod/3285/groessererucksaecke-bigger-backpacks": "GroessereRucksaecke (Bigger Backpacks)",
+  "https://sp-mod.com/mod/3283/deutschetexte-german-item-quest-texts": "DeutscheTexte (German Item & Quest Texts)",
+  "https://sp-mod.com/mod/3282/balsamdauer-golden-star-balm-duration": "BalsamDauer (Golden Star Balm Duration)",
+  "https://sp-mod.com/mod/3281/alleausgaenge-all-extracts": "AlleAusgaenge (All Extracts)",
+  "https://sp-mod.com/mod/3280/tuerabschliessen-lock-doors": "TuerAbschliessen (Lock Doors)",
+  "https://sp-mod.com/mod/3279/questitemesp": "QuestItemESP",
+  "https://sp-mod.com/mod/3278/kartentuerhacken-hack-keycard-doors": "KartentuerHacken (Hack Keycard Doors)",
+  "https://sp-mod.com/mod/3277/blickrichtung-turn-to-look-direction": "Blickrichtung (Turn to Look Direction)",
+  "https://sp-mod.com/mod/3276/beutetresor-loot-safe": "Beutetresor (Loot Safe)",
+  "https://sp-mod.com/mod/3275/autolaufen-auto-run": "AutoLaufen (Auto Run)"
  },
  "novos": [
+  {
+   "titulo": "AutoLaufen (Auto Run)",
+   "link": "https://sp-mod.com/mod/3275/autolaufen-auto-run",
+   "data": "03/11/2026 14:44 UTC"
+  },
+  {
+   "titulo": "Beutetresor (Loot Safe)",
+   "link": "https://sp-mod.com/mod/3276/beutetresor-loot-safe",
+   "data": "03/11/2026 14:44 UTC"
+  },
+  {
+   "titulo": "Blickrichtung (Turn to Look Direction)",
+   "link": "https://sp-mod.com/mod/3277/blickrichtung-turn-to-look-direction",
+   "data": "03/11/2026 14:44 UTC"
+  },
+  {
+   "titulo": "KartentuerHacken (Hack Keycard Doors)",
+   "link": "https://sp-mod.com/mod/3278/kartentuerhacken-hack-keycard-doors",
+   "data": "03/11/2026 14:44 UTC"
+  },
+  {
+   "titulo": "QuestItemESP",
+   "link": "https://sp-mod.com/mod/3279/questitemesp",
+   "data": "03/11/2026 14:44 UTC"
+  },
+  {
+   "titulo": "TuerAbschliessen (Lock Doors)",
+   "link": "https://sp-mod.com/mod/3280/tuerabschliessen-lock-doors",
+   "data": "03/11/2026 14:44 UTC"
+  },
+  {
+   "titulo": "AlleAusgaenge (All Extracts)",
+   "link": "https://sp-mod.com/mod/3281/alleausgaenge-all-extracts",
+   "data": "03/11/2026 14:44 UTC"
+  },
+  {
+   "titulo": "BalsamDauer (Golden Star Balm Duration)",
+   "link": "https://sp-mod.com/mod/3282/balsamdauer-golden-star-balm-duration",
+   "data": "03/11/2026 14:44 UTC"
+  },
+  {
+   "titulo": "DeutscheTexte (German Item & Quest Texts)",
+   "link": "https://sp-mod.com/mod/3283/deutschetexte-german-item-quest-texts",
+   "data": "03/11/2026 14:44 UTC"
+  },
+  {
+   "titulo": "GroessereRucksaecke (Bigger Backpacks)",
+   "link": "https://sp-mod.com/mod/3285/groessererucksaecke-bigger-backpacks",
+   "data": "03/11/2026 14:44 UTC"
+  },
+  {
+   "titulo": "SchalldaempferFuerAlle (Suppressors for All)",
+   "link": "https://sp-mod.com/mod/3286/schalldaempferfueralle-suppressors-for-all",
+   "data": "03/11/2026 14:44 UTC"
+  },
   {
    "titulo": "Cursed Things",
    "link": "https://sp-mod.com/mod/3263/cursed-things",
@@ -275,62 +341,7 @@
    "titulo": "Botmon Trend",
    "link": "https://sp-mod.com/mod/3233/botmon-trend",
    "data": "28/10/2026 23:24 UTC"
-  },
-  {
-   "titulo": "zezinho's Past & Present Event Selector (PPES)",
-   "link": "https://sp-mod.com/mod/3232/zezinhos-past-present-event-selector-ppes",
-   "data": "28/10/2026 18:30 UTC"
-  },
-  {
-   "titulo": "Flogger",
-   "link": "https://sp-mod.com/mod/3227/flogger",
-   "data": "28/10/2026 12:31 UTC"
-  },
-  {
-   "titulo": "Price Index",
-   "link": "https://sp-mod.com/mod/3228/price-index",
-   "data": "28/10/2026 12:31 UTC"
-  },
-  {
-   "titulo": "ZM_Raygun",
-   "link": "https://sp-mod.com/mod/3229/zm-raygun",
-   "data": "28/10/2026 12:31 UTC"
-  },
-  {
-   "titulo": "Wrist Accessories (WIP)",
-   "link": "https://sp-mod.com/mod/3230/wrist-accessories-wip",
-   "data": "28/10/2026 12:31 UTC"
-  },
-  {
-   "titulo": "Lawnmower",
-   "link": "https://sp-mod.com/mod/3231/lawnmower",
-   "data": "28/10/2026 12:31 UTC"
-  },
-  {
-   "titulo": "Pack A Punch Hideout Module",
-   "link": "https://sp-mod.com/mod/3223/pack-a-punch-hideout-module",
-   "data": "27/10/2026 18:31 UTC"
-  },
-  {
-   "titulo": "Rescue NoClip",
-   "link": "https://sp-mod.com/mod/3225/rescue-noclip",
-   "data": "27/10/2026 18:31 UTC"
-  },
-  {
-   "titulo": "ZM_Thundergun",
-   "link": "https://sp-mod.com/mod/3226/zm-thundergun",
-   "data": "27/10/2026 18:31 UTC"
-  },
-  {
-   "titulo": "TraceSix - Full Raytracing and Voxel GI",
-   "link": "https://sp-mod.com/mod/3221/tracesix-full-raytracing-and-voxel-gi",
-   "data": "27/10/2026 12:28 UTC"
-  },
-  {
-   "titulo": "Insurance Fraud",
-   "link": "https://sp-mod.com/mod/3222/insurance-fraud",
-   "data": "27/10/2026 12:28 UTC"
   }
  ],
- "ultima_checagem": "03/11/2026 12:46 UTC"
+ "ultima_checagem": "03/11/2026 14:44 UTC"
 }
