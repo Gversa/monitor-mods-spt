@@ -70,9 +70,57 @@
   "https://sp-mod.com/mod/3265/v-os-gigapmc-for-tushanka-enjoyers": "[V_OS] GigaPMC - For TUSHANKA Enjoyers!",
   "https://sp-mod.com/mod/3264/v-os-scavtime-never-be-late-for-a-raid": "[V_OS] ScavTime - Never be late for a Raid!",
   "https://sp-mod.com/mod/3261/pbt-progressive-bot-profiles": "PBT - Progressive Bot Profiles",
-  "https://sp-mod.com/mod/3255/escape-from-borderlands": "Escape From Borderlands"
+  "https://sp-mod.com/mod/3255/escape-from-borderlands": "Escape From Borderlands",
+  "https://sp-mod.com/mod/3274/waermebildvisier-thermal-through-scopes": "WaermebildVisier (Thermal Through Scopes)",
+  "https://sp-mod.com/mod/3272/behaelterohnegewicht-weightless-secure-container": "BehaelterOhneGewicht (Weightless Secure Container)",
+  "https://sp-mod.com/mod/3271/allesannehmen-accept-all": "AllesAnnehmen (Accept All)",
+  "https://sp-mod.com/mod/3270/windstille-calm-wind": "Windstille (Calm Wind)",
+  "https://sp-mod.com/mod/3268/tactical-reload-benelli-m3-s90": "Tactical Reload - Benelli M3 S90",
+  "https://sp-mod.com/mod/3267/favoritemusicplayer": "FavoriteMusicPlayer",
+  "https://sp-mod.com/mod/3266/classified": "CLASSIFIED",
+  "https://sp-mod.com/mod/3263/cursed-things": "Cursed Things"
  },
  "novos": [
+  {
+   "titulo": "Cursed Things",
+   "link": "https://sp-mod.com/mod/3263/cursed-things",
+   "data": "03/11/2026 12:46 UTC"
+  },
+  {
+   "titulo": "CLASSIFIED",
+   "link": "https://sp-mod.com/mod/3266/classified",
+   "data": "03/11/2026 12:46 UTC"
+  },
+  {
+   "titulo": "FavoriteMusicPlayer",
+   "link": "https://sp-mod.com/mod/3267/favoritemusicplayer",
+   "data": "03/11/2026 12:46 UTC"
+  },
+  {
+   "titulo": "Tactical Reload - Benelli M3 S90",
+   "link": "https://sp-mod.com/mod/3268/tactical-reload-benelli-m3-s90",
+   "data": "03/11/2026 12:46 UTC"
+  },
+  {
+   "titulo": "Windstille (Calm Wind)",
+   "link": "https://sp-mod.com/mod/3270/windstille-calm-wind",
+   "data": "03/11/2026 12:46 UTC"
+  },
+  {
+   "titulo": "AllesAnnehmen (Accept All)",
+   "link": "https://sp-mod.com/mod/3271/allesannehmen-accept-all",
+   "data": "03/11/2026 12:46 UTC"
+  },
+  {
+   "titulo": "BehaelterOhneGewicht (Weightless Secure Container)",
+   "link": "https://sp-mod.com/mod/3272/behaelterohnegewicht-weightless-secure-container",
+   "data": "03/11/2026 12:46 UTC"
+  },
+  {
+   "titulo": "WaermebildVisier (Thermal Through Scopes)",
+   "link": "https://sp-mod.com/mod/3274/waermebildvisier-thermal-through-scopes",
+   "data": "03/11/2026 12:46 UTC"
+  },
   {
    "titulo": "Escape From Borderlands",
    "link": "https://sp-mod.com/mod/3255/escape-from-borderlands",
@@ -282,47 +330,7 @@
    "titulo": "Insurance Fraud",
    "link": "https://sp-mod.com/mod/3222/insurance-fraud",
    "data": "27/10/2026 12:28 UTC"
-  },
-  {
-   "titulo": "Pack A Punch Hideout Module - SPT",
-   "link": "https://sp-mod.com/mod/3223/pack-a-punch-hideout-module-spt",
-   "data": "27/10/2026 12:28 UTC"
-  },
-  {
-   "titulo": "Balaclava mask for WeaponCamoAndStickers mod",
-   "link": "https://sp-mod.com/mod/3224/balaclava-mask-for-weaponcamoandstickers-mod",
-   "data": "27/10/2026 12:28 UTC"
-  },
-  {
-   "titulo": "Quest Glow",
-   "link": "https://sp-mod.com/mod/3214/quest-glow",
-   "data": "26/10/2026 23:19 UTC"
-  },
-  {
-   "titulo": "Custom Wishlist Categories",
-   "link": "https://sp-mod.com/mod/3215/custom-wishlist-categories",
-   "data": "26/10/2026 23:19 UTC"
-  },
-  {
-   "titulo": "EventRotator",
-   "link": "https://sp-mod.com/mod/3218/eventrotator",
-   "data": "26/10/2026 18:28 UTC"
-  },
-  {
-   "titulo": "RZMedTiming — surgery & medical animation sync",
-   "link": "https://sp-mod.com/mod/3219/rzmedtiming-surgery-medical-animation-sync",
-   "data": "26/10/2026 18:28 UTC"
-  },
-  {
-   "titulo": "Make Magnifier Great Again",
-   "link": "https://sp-mod.com/mod/3216/make-magnifier-great-again",
-   "data": "26/10/2026 14:18 UTC"
-  },
-  {
-   "titulo": "Gear Enhance",
-   "link": "https://sp-mod.com/mod/3217/gear-enhance",
-   "data": "26/10/2026 14:18 UTC"
   }
  ],
- "ultima_checagem": "02/11/2026 23:27 UTC"
+ "ultima_checagem": "03/11/2026 12:46 UTC"
 }
