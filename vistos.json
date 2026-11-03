@@ -89,9 +89,21 @@
   "https://sp-mod.com/mod/3278/kartentuerhacken-hack-keycard-doors": "KartentuerHacken (Hack Keycard Doors)",
   "https://sp-mod.com/mod/3277/blickrichtung-turn-to-look-direction": "Blickrichtung (Turn to Look Direction)",
   "https://sp-mod.com/mod/3276/beutetresor-loot-safe": "Beutetresor (Loot Safe)",
-  "https://sp-mod.com/mod/3275/autolaufen-auto-run": "AutoLaufen (Auto Run)"
+  "https://sp-mod.com/mod/3275/autolaufen-auto-run": "AutoLaufen (Auto Run)",
+  "https://sp-mod.com/mod/3289/infrastructure-decay": "Infrastructure Decay",
+  "https://sp-mod.com/mod/3288/aufgabengepaeck-quest-luggage-quest-case": "AufgabenGepaeck (Quest Luggage + Quest Case)"
  },
  "novos": [
+  {
+   "titulo": "AufgabenGepaeck (Quest Luggage + Quest Case)",
+   "link": "https://sp-mod.com/mod/3288/aufgabengepaeck-quest-luggage-quest-case",
+   "data": "03/11/2026 16:42 UTC"
+  },
+  {
+   "titulo": "Infrastructure Decay",
+   "link": "https://sp-mod.com/mod/3289/infrastructure-decay",
+   "data": "03/11/2026 16:42 UTC"
+  },
   {
    "titulo": "AutoLaufen (Auto Run)",
    "link": "https://sp-mod.com/mod/3275/autolaufen-auto-run",
@@ -331,17 +343,7 @@
    "titulo": "Plate Durability",
    "link": "https://sp-mod.com/mod/3234/plate-durability",
    "data": "29/10/2026 20:52 UTC"
-  },
-  {
-   "titulo": "Plate Durability",
-   "link": "https://sp-mod.com/mod/3234/plate-durability",
-   "data": "29/10/2026 12:32 UTC"
-  },
-  {
-   "titulo": "Botmon Trend",
-   "link": "https://sp-mod.com/mod/3233/botmon-trend",
-   "data": "28/10/2026 23:24 UTC"
   }
  ],
- "ultima_checagem": "03/11/2026 14:44 UTC"
+ "ultima_checagem": "03/11/2026 16:42 UTC"
 }
