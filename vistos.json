@@ -92,9 +92,15 @@
   "https://sp-mod.com/mod/3275/autolaufen-auto-run": "AutoLaufen (Auto Run)",
   "https://sp-mod.com/mod/3289/infrastructure-decay": "Infrastructure Decay",
   "https://sp-mod.com/mod/3288/aufgabengepaeck-quest-luggage-quest-case": "AufgabenGepaeck (Quest Luggage + Quest Case)",
-  "https://sp-mod.com/mod/3290/raid-roulette-beta": "Raid Roulette [Beta]"
+  "https://sp-mod.com/mod/3290/raid-roulette-beta": "Raid Roulette [Beta]",
+  "https://sp-mod.com/mod/3291/gpnvg18thermal-gpnvg-18-thermal-goggles": "GPNVG18Thermal (GPNVG-18 Thermal Goggles)"
  },
  "novos": [
+  {
+   "titulo": "GPNVG18Thermal (GPNVG-18 Thermal Goggles)",
+   "link": "https://sp-mod.com/mod/3291/gpnvg18thermal-gpnvg-18-thermal-goggles",
+   "data": "03/11/2026 23:29 UTC"
+  },
   {
    "titulo": "Raid Roulette [Beta]",
    "link": "https://sp-mod.com/mod/3290/raid-roulette-beta",
@@ -339,12 +345,7 @@
    "titulo": "FOV unlock",
    "link": "https://sp-mod.com/mod/3239/fov-unlock",
    "data": "30/10/2026 12:33 UTC"
-  },
-  {
-   "titulo": "Halloween Background Backport",
-   "link": "https://sp-mod.com/mod/3235/halloween-background-backport",
-   "data": "29/10/2026 23:25 UTC"
   }
  ],
- "ultima_checagem": "03/11/2026 18:37 UTC"
+ "ultima_checagem": "03/11/2026 23:29 UTC"
 }
