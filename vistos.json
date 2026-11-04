@@ -93,9 +93,27 @@
   "https://sp-mod.com/mod/3289/infrastructure-decay": "Infrastructure Decay",
   "https://sp-mod.com/mod/3288/aufgabengepaeck-quest-luggage-quest-case": "AufgabenGepaeck (Quest Luggage + Quest Case)",
   "https://sp-mod.com/mod/3290/raid-roulette-beta": "Raid Roulette [Beta]",
-  "https://sp-mod.com/mod/3291/gpnvg18thermal-gpnvg-18-thermal-goggles": "GPNVG18Thermal (GPNVG-18 Thermal Goggles)"
+  "https://sp-mod.com/mod/3291/gpnvg18thermal-gpnvg-18-thermal-goggles": "GPNVG18Thermal (GPNVG-18 Thermal Goggles)",
+  "https://sp-mod.com/mod/3295/hideout-we-deserve-timerp": "Hideout We Deserve - TimeRP",
+  "https://sp-mod.com/mod/3294/hideout-we-deserve-ui-improvements": "Hideout We Deserve - UI Improvements",
+  "https://sp-mod.com/mod/3293/onlyfence": "OnlyFence"
  },
  "novos": [
+  {
+   "titulo": "OnlyFence",
+   "link": "https://sp-mod.com/mod/3293/onlyfence",
+   "data": "04/11/2026 12:44 UTC"
+  },
+  {
+   "titulo": "Hideout We Deserve - UI Improvements",
+   "link": "https://sp-mod.com/mod/3294/hideout-we-deserve-ui-improvements",
+   "data": "04/11/2026 12:44 UTC"
+  },
+  {
+   "titulo": "Hideout We Deserve - TimeRP",
+   "link": "https://sp-mod.com/mod/3295/hideout-we-deserve-timerp",
+   "data": "04/11/2026 12:44 UTC"
+  },
   {
    "titulo": "GPNVG18Thermal (GPNVG-18 Thermal Goggles)",
    "link": "https://sp-mod.com/mod/3291/gpnvg18thermal-gpnvg-18-thermal-goggles",
@@ -330,22 +348,7 @@
    "titulo": "Return Of Thunderstorms",
    "link": "https://sp-mod.com/mod/3236/return-of-thunderstorms",
    "data": "30/10/2026 12:33 UTC"
-  },
-  {
-   "titulo": "Euphoria-style ragdolls (WIP)",
-   "link": "https://sp-mod.com/mod/3237/euphoria-style-ragdolls-wip",
-   "data": "30/10/2026 12:33 UTC"
-  },
-  {
-   "titulo": "zezinho's Train Timer",
-   "link": "https://sp-mod.com/mod/3238/zezinhos-train-timer",
-   "data": "30/10/2026 12:33 UTC"
-  },
-  {
-   "titulo": "FOV unlock",
-   "link": "https://sp-mod.com/mod/3239/fov-unlock",
-   "data": "30/10/2026 12:33 UTC"
   }
  ],
- "ultima_checagem": "03/11/2026 23:29 UTC"
+ "ultima_checagem": "04/11/2026 12:44 UTC"
 }
