@@ -99,9 +99,27 @@
   "https://sp-mod.com/mod/3293/onlyfence": "OnlyFence",
   "https://sp-mod.com/mod/3299/dualwield-akimbo-pistols": "DualWield – Akimbo Pistols",
   "https://sp-mod.com/mod/3298/weapon-build-screen-tilt": "Weapon Build Screen Tilt",
-  "https://sp-mod.com/mod/3297/newspaper": "Newspaper"
+  "https://sp-mod.com/mod/3297/newspaper": "Newspaper",
+  "https://sp-mod.com/mod/3303/generator-off-on-exit": "Generator off on exit",
+  "https://sp-mod.com/mod/3302/tactical-comfort": "Tactical Comfort",
+  "https://sp-mod.com/mod/3301/tactical-supply-drops": "Tactical Supply Drops"
  },
  "novos": [
+  {
+   "titulo": "Tactical Supply Drops",
+   "link": "https://sp-mod.com/mod/3301/tactical-supply-drops",
+   "data": "05/11/2026 12:50 UTC"
+  },
+  {
+   "titulo": "Tactical Comfort",
+   "link": "https://sp-mod.com/mod/3302/tactical-comfort",
+   "data": "05/11/2026 12:50 UTC"
+  },
+  {
+   "titulo": "Generator off on exit",
+   "link": "https://sp-mod.com/mod/3303/generator-off-on-exit",
+   "data": "05/11/2026 12:50 UTC"
+  },
   {
    "titulo": "Newspaper",
    "link": "https://sp-mod.com/mod/3297/newspaper",
@@ -336,22 +354,7 @@
    "titulo": "DuckCam",
    "link": "https://sp-mod.com/mod/3245/duckcam",
    "data": "31/10/2026 12:29 UTC"
-  },
-  {
-   "titulo": "RailTime",
-   "link": "https://sp-mod.com/mod/3246/railtime",
-   "data": "31/10/2026 12:29 UTC"
-  },
-  {
-   "titulo": "Gym Rat",
-   "link": "https://sp-mod.com/mod/3247/gym-rat",
-   "data": "31/10/2026 12:29 UTC"
-  },
-  {
-   "titulo": "Forecaster",
-   "link": "https://sp-mod.com/mod/3241/forecaster",
-   "data": "30/10/2026 23:24 UTC"
   }
  ],
- "ultima_checagem": "04/11/2026 23:33 UTC"
+ "ultima_checagem": "05/11/2026 12:50 UTC"
 }
