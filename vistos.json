@@ -103,9 +103,27 @@
   "https://sp-mod.com/mod/3303/generator-off-on-exit": "Generator off on exit",
   "https://sp-mod.com/mod/3302/tactical-comfort": "Tactical Comfort",
   "https://sp-mod.com/mod/3301/tactical-supply-drops": "Tactical Supply Drops",
-  "https://sp-mod.com/mod/3304/kma-solo": "K.M.A. - Solo"
+  "https://sp-mod.com/mod/3304/kma-solo": "K.M.A. - Solo",
+  "https://sp-mod.com/mod/3308/kma-bodydrag": "K.M.A. - BodyDrag",
+  "https://sp-mod.com/mod/3307/refextraquests": "RefExtraQuests",
+  "https://sp-mod.com/mod/3306/swag-donuts": "SWAG + Donuts"
  },
  "novos": [
+  {
+   "titulo": "SWAG + Donuts",
+   "link": "https://sp-mod.com/mod/3306/swag-donuts",
+   "data": "05/11/2026 23:35 UTC"
+  },
+  {
+   "titulo": "RefExtraQuests",
+   "link": "https://sp-mod.com/mod/3307/refextraquests",
+   "data": "05/11/2026 23:35 UTC"
+  },
+  {
+   "titulo": "K.M.A. - BodyDrag",
+   "link": "https://sp-mod.com/mod/3308/kma-bodydrag",
+   "data": "05/11/2026 23:35 UTC"
+  },
   {
    "titulo": "K.M.A. - Solo",
    "link": "https://sp-mod.com/mod/3304/kma-solo",
@@ -340,22 +358,7 @@
    "titulo": "TraderScarcity",
    "link": "https://sp-mod.com/mod/3248/traderscarcity",
    "data": "31/10/2026 23:23 UTC"
-  },
-  {
-   "titulo": "ACCESS_GRANTED",
-   "link": "https://sp-mod.com/mod/3249/access-granted",
-   "data": "31/10/2026 23:23 UTC"
-  },
-  {
-   "titulo": "transMOGGED",
-   "link": "https://sp-mod.com/mod/3243/transmogged",
-   "data": "31/10/2026 12:29 UTC"
-  },
-  {
-   "titulo": "I'm Not Festive",
-   "link": "https://sp-mod.com/mod/3244/im-not-festive",
-   "data": "31/10/2026 12:29 UTC"
   }
  ],
- "ultima_checagem": "05/11/2026 18:40 UTC"
+ "ultima_checagem": "05/11/2026 23:35 UTC"
 }
