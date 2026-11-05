@@ -102,9 +102,15 @@
   "https://sp-mod.com/mod/3297/newspaper": "Newspaper",
   "https://sp-mod.com/mod/3303/generator-off-on-exit": "Generator off on exit",
   "https://sp-mod.com/mod/3302/tactical-comfort": "Tactical Comfort",
-  "https://sp-mod.com/mod/3301/tactical-supply-drops": "Tactical Supply Drops"
+  "https://sp-mod.com/mod/3301/tactical-supply-drops": "Tactical Supply Drops",
+  "https://sp-mod.com/mod/3304/kma-solo": "K.M.A. - Solo"
  },
  "novos": [
+  {
+   "titulo": "K.M.A. - Solo",
+   "link": "https://sp-mod.com/mod/3304/kma-solo",
+   "data": "05/11/2026 16:56 UTC"
+  },
   {
    "titulo": "Tactical Supply Drops",
    "link": "https://sp-mod.com/mod/3301/tactical-supply-drops",
@@ -349,12 +355,7 @@
    "titulo": "I'm Not Festive",
    "link": "https://sp-mod.com/mod/3244/im-not-festive",
    "data": "31/10/2026 12:29 UTC"
-  },
-  {
-   "titulo": "DuckCam",
-   "link": "https://sp-mod.com/mod/3245/duckcam",
-   "data": "31/10/2026 12:29 UTC"
   }
  ],
- "ultima_checagem": "05/11/2026 14:48 UTC"
+ "ultima_checagem": "05/11/2026 16:56 UTC"
 }
