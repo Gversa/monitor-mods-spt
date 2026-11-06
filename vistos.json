@@ -111,9 +111,21 @@
   "https://sp-mod.com/mod/3311/multipurpose-drone-beta": "Multipurpose Drone [Beta]",
   "https://sp-mod.com/mod/3310/world-mail-countdown": "World Mail Countdown",
   "https://sp-mod.com/mod/3314/sound-engine-backport": "Sound Engine Backport",
-  "https://sp-mod.com/mod/3310/world-mail-countdown-multi-lang-16": "World Mail Countdown_Multi-Lang (16)"
+  "https://sp-mod.com/mod/3310/world-mail-countdown-multi-lang-16": "World Mail Countdown_Multi-Lang (16)",
+  "https://sp-mod.com/mod/3316/service-stars": "Service Stars",
+  "https://sp-mod.com/mod/3315/skipper-btr-lightkeeper-addon": "Skipper - BTR  / Lightkeeper Addon"
  },
  "novos": [
+  {
+   "titulo": "Skipper - BTR  / Lightkeeper Addon",
+   "link": "https://sp-mod.com/mod/3315/skipper-btr-lightkeeper-addon",
+   "data": "06/11/2026 18:40 UTC"
+  },
+  {
+   "titulo": "Service Stars",
+   "link": "https://sp-mod.com/mod/3316/service-stars",
+   "data": "06/11/2026 18:40 UTC"
+  },
   {
    "titulo": "World Mail Countdown_Multi-Lang (16)",
    "link": "https://sp-mod.com/mod/3310/world-mail-countdown-multi-lang-16",
@@ -353,17 +365,7 @@
    "titulo": "Whoopsies! - Raid Resetter",
    "link": "https://sp-mod.com/mod/3259/whoopsies-raid-resetter",
    "data": "02/11/2026 12:46 UTC"
-  },
-  {
-   "titulo": "Loot Peleng",
-   "link": "https://sp-mod.com/mod/3260/loot-peleng",
-   "data": "02/11/2026 12:46 UTC"
-  },
-  {
-   "titulo": "HideoutAutoBuy",
-   "link": "https://sp-mod.com/mod/3254/hideoutautobuy",
-   "data": "01/11/2026 23:24 UTC"
   }
  ],
- "ultima_checagem": "06/11/2026 16:40 UTC"
+ "ultima_checagem": "06/11/2026 18:40 UTC"
 }
