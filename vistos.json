@@ -109,9 +109,21 @@
   "https://sp-mod.com/mod/3306/swag-donuts": "SWAG + Donuts",
   "https://sp-mod.com/mod/3313/seamless-swap": "Seamless Swap",
   "https://sp-mod.com/mod/3311/multipurpose-drone-beta": "Multipurpose Drone [Beta]",
-  "https://sp-mod.com/mod/3310/world-mail-countdown": "World Mail Countdown"
+  "https://sp-mod.com/mod/3310/world-mail-countdown": "World Mail Countdown",
+  "https://sp-mod.com/mod/3314/sound-engine-backport": "Sound Engine Backport",
+  "https://sp-mod.com/mod/3310/world-mail-countdown-multi-lang-16": "World Mail Countdown_Multi-Lang (16)"
  },
  "novos": [
+  {
+   "titulo": "World Mail Countdown_Multi-Lang (16)",
+   "link": "https://sp-mod.com/mod/3310/world-mail-countdown-multi-lang-16",
+   "data": "06/11/2026 16:40 UTC"
+  },
+  {
+   "titulo": "Sound Engine Backport",
+   "link": "https://sp-mod.com/mod/3314/sound-engine-backport",
+   "data": "06/11/2026 16:40 UTC"
+  },
   {
    "titulo": "World Mail Countdown",
    "link": "https://sp-mod.com/mod/3310/world-mail-countdown",
@@ -351,17 +363,7 @@
    "titulo": "HideoutAutoBuy",
    "link": "https://sp-mod.com/mod/3254/hideoutautobuy",
    "data": "01/11/2026 23:24 UTC"
-  },
-  {
-   "titulo": "K9 Companion",
-   "link": "https://sp-mod.com/mod/3256/k9-companion",
-   "data": "01/11/2026 23:24 UTC"
-  },
-  {
-   "titulo": "Hideout Extensions",
-   "link": "https://sp-mod.com/mod/3257/hideout-extensions",
-   "data": "01/11/2026 23:24 UTC"
   }
  ],
- "ultima_checagem": "06/11/2026 14:45 UTC"
+ "ultima_checagem": "06/11/2026 16:40 UTC"
 }
