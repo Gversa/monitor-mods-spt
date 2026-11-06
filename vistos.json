@@ -106,9 +106,27 @@
   "https://sp-mod.com/mod/3304/kma-solo": "K.M.A. - Solo",
   "https://sp-mod.com/mod/3308/kma-bodydrag": "K.M.A. - BodyDrag",
   "https://sp-mod.com/mod/3307/refextraquests": "RefExtraQuests",
-  "https://sp-mod.com/mod/3306/swag-donuts": "SWAG + Donuts"
+  "https://sp-mod.com/mod/3306/swag-donuts": "SWAG + Donuts",
+  "https://sp-mod.com/mod/3313/seamless-swap": "Seamless Swap",
+  "https://sp-mod.com/mod/3311/multipurpose-drone-beta": "Multipurpose Drone [Beta]",
+  "https://sp-mod.com/mod/3310/world-mail-countdown": "World Mail Countdown"
  },
  "novos": [
+  {
+   "titulo": "World Mail Countdown",
+   "link": "https://sp-mod.com/mod/3310/world-mail-countdown",
+   "data": "06/11/2026 12:46 UTC"
+  },
+  {
+   "titulo": "Multipurpose Drone [Beta]",
+   "link": "https://sp-mod.com/mod/3311/multipurpose-drone-beta",
+   "data": "06/11/2026 12:46 UTC"
+  },
+  {
+   "titulo": "Seamless Swap",
+   "link": "https://sp-mod.com/mod/3313/seamless-swap",
+   "data": "06/11/2026 12:46 UTC"
+  },
   {
    "titulo": "SWAG + Donuts",
    "link": "https://sp-mod.com/mod/3306/swag-donuts",
@@ -343,22 +361,7 @@
    "titulo": "Hideout Extensions",
    "link": "https://sp-mod.com/mod/3257/hideout-extensions",
    "data": "01/11/2026 23:24 UTC"
-  },
-  {
-   "titulo": "LiveRaid",
-   "link": "https://sp-mod.com/mod/3253/liveraid",
-   "data": "01/11/2026 16:26 UTC"
-  },
-  {
-   "titulo": "TrueView Overhaul",
-   "link": "https://sp-mod.com/mod/3250/trueview-overhaul",
-   "data": "01/11/2026 12:31 UTC"
-  },
-  {
-   "titulo": "TraderScarcity",
-   "link": "https://sp-mod.com/mod/3248/traderscarcity",
-   "data": "31/10/2026 23:23 UTC"
   }
  ],
- "ultima_checagem": "05/11/2026 23:35 UTC"
+ "ultima_checagem": "06/11/2026 12:46 UTC"
 }
