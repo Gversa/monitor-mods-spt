@@ -113,9 +113,15 @@
   "https://sp-mod.com/mod/3314/sound-engine-backport": "Sound Engine Backport",
   "https://sp-mod.com/mod/3310/world-mail-countdown-multi-lang-16": "World Mail Countdown_Multi-Lang (16)",
   "https://sp-mod.com/mod/3316/service-stars": "Service Stars",
-  "https://sp-mod.com/mod/3315/skipper-btr-lightkeeper-addon": "Skipper - BTR  / Lightkeeper Addon"
+  "https://sp-mod.com/mod/3315/skipper-btr-lightkeeper-addon": "Skipper - BTR  / Lightkeeper Addon",
+  "https://sp-mod.com/mod/3309/tushonkapedia": "Tushonkapedia"
  },
  "novos": [
+  {
+   "titulo": "Tushonkapedia",
+   "link": "https://sp-mod.com/mod/3309/tushonkapedia",
+   "data": "06/11/2026 23:28 UTC"
+  },
   {
    "titulo": "Skipper - BTR  / Lightkeeper Addon",
    "link": "https://sp-mod.com/mod/3315/skipper-btr-lightkeeper-addon",
@@ -360,12 +366,7 @@
    "titulo": "Better Cursors",
    "link": "https://sp-mod.com/mod/3258/better-cursors",
    "data": "02/11/2026 12:46 UTC"
-  },
-  {
-   "titulo": "Whoopsies! - Raid Resetter",
-   "link": "https://sp-mod.com/mod/3259/whoopsies-raid-resetter",
-   "data": "02/11/2026 12:46 UTC"
   }
  ],
- "ultima_checagem": "06/11/2026 18:40 UTC"
+ "ultima_checagem": "06/11/2026 23:28 UTC"
 }
