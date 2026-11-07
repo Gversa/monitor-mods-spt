@@ -114,9 +114,33 @@
   "https://sp-mod.com/mod/3310/world-mail-countdown-multi-lang-16": "World Mail Countdown_Multi-Lang (16)",
   "https://sp-mod.com/mod/3316/service-stars": "Service Stars",
   "https://sp-mod.com/mod/3315/skipper-btr-lightkeeper-addon": "Skipper - BTR  / Lightkeeper Addon",
-  "https://sp-mod.com/mod/3309/tushonkapedia": "Tushonkapedia"
+  "https://sp-mod.com/mod/3309/tushonkapedia": "Tushonkapedia",
+  "https://sp-mod.com/mod/3318/no-scav-screen": "No Scav Screen",
+  "https://sp-mod.com/mod/3317/t-override-sp-cheat": "T∗∗∗∗∗ Override [SP CHEAT]",
+  "https://sp-mod.com/mod/3312/bot-traversal": "Bot Traversal",
+  "https://sp-mod.com/mod/3307/refextraquests-multi-lang": "RefExtraQuests - Multi_Lang"
  },
  "novos": [
+  {
+   "titulo": "RefExtraQuests - Multi_Lang",
+   "link": "https://sp-mod.com/mod/3307/refextraquests-multi-lang",
+   "data": "07/11/2026 12:32 UTC"
+  },
+  {
+   "titulo": "Bot Traversal",
+   "link": "https://sp-mod.com/mod/3312/bot-traversal",
+   "data": "07/11/2026 12:32 UTC"
+  },
+  {
+   "titulo": "T∗∗∗∗∗ Override [SP CHEAT]",
+   "link": "https://sp-mod.com/mod/3317/t-override-sp-cheat",
+   "data": "07/11/2026 12:32 UTC"
+  },
+  {
+   "titulo": "No Scav Screen",
+   "link": "https://sp-mod.com/mod/3318/no-scav-screen",
+   "data": "07/11/2026 12:32 UTC"
+  },
   {
    "titulo": "Tushonkapedia",
    "link": "https://sp-mod.com/mod/3309/tushonkapedia",
@@ -346,27 +370,7 @@
    "titulo": "PBT - Progressive Bot Profiles",
    "link": "https://sp-mod.com/mod/3261/pbt-progressive-bot-profiles",
    "data": "02/11/2026 23:27 UTC"
-  },
-  {
-   "titulo": "[V_OS] ScavTime - Never be late for a Raid!",
-   "link": "https://sp-mod.com/mod/3264/v-os-scavtime-never-be-late-for-a-raid",
-   "data": "02/11/2026 23:27 UTC"
-  },
-  {
-   "titulo": "[V_OS] GigaPMC - For TUSHANKA Enjoyers!",
-   "link": "https://sp-mod.com/mod/3265/v-os-gigapmc-for-tushanka-enjoyers",
-   "data": "02/11/2026 23:27 UTC"
-  },
-  {
-   "titulo": "zezinho's Cultist Circle Planner",
-   "link": "https://sp-mod.com/mod/3262/zezinhos-cultist-circle-planner",
-   "data": "02/11/2026 18:43 UTC"
-  },
-  {
-   "titulo": "Better Cursors",
-   "link": "https://sp-mod.com/mod/3258/better-cursors",
-   "data": "02/11/2026 12:46 UTC"
   }
  ],
- "ultima_checagem": "06/11/2026 23:28 UTC"
+ "ultima_checagem": "07/11/2026 12:32 UTC"
 }
