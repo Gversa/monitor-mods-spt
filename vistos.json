@@ -118,9 +118,21 @@
   "https://sp-mod.com/mod/3318/no-scav-screen": "No Scav Screen",
   "https://sp-mod.com/mod/3317/t-override-sp-cheat": "T∗∗∗∗∗ Override [SP CHEAT]",
   "https://sp-mod.com/mod/3312/bot-traversal": "Bot Traversal",
-  "https://sp-mod.com/mod/3307/refextraquests-multi-lang": "RefExtraQuests - Multi_Lang"
+  "https://sp-mod.com/mod/3307/refextraquests-multi-lang": "RefExtraQuests - Multi_Lang",
+  "https://sp-mod.com/mod/3321/automatic-weaponsmith": "Automatic Weaponsmith",
+  "https://sp-mod.com/mod/3319/zielhilfe-aim-assist": "Zielhilfe (Aim Assist)"
  },
  "novos": [
+  {
+   "titulo": "Zielhilfe (Aim Assist)",
+   "link": "https://sp-mod.com/mod/3319/zielhilfe-aim-assist",
+   "data": "07/11/2026 14:31 UTC"
+  },
+  {
+   "titulo": "Automatic Weaponsmith",
+   "link": "https://sp-mod.com/mod/3321/automatic-weaponsmith",
+   "data": "07/11/2026 14:31 UTC"
+  },
   {
    "titulo": "RefExtraQuests - Multi_Lang",
    "link": "https://sp-mod.com/mod/3307/refextraquests-multi-lang",
@@ -360,17 +372,7 @@
    "titulo": "WaermebildVisier (Thermal Through Scopes)",
    "link": "https://sp-mod.com/mod/3274/waermebildvisier-thermal-through-scopes",
    "data": "03/11/2026 12:46 UTC"
-  },
-  {
-   "titulo": "Escape From Borderlands",
-   "link": "https://sp-mod.com/mod/3255/escape-from-borderlands",
-   "data": "02/11/2026 23:27 UTC"
-  },
-  {
-   "titulo": "PBT - Progressive Bot Profiles",
-   "link": "https://sp-mod.com/mod/3261/pbt-progressive-bot-profiles",
-   "data": "02/11/2026 23:27 UTC"
   }
  ],
- "ultima_checagem": "07/11/2026 12:32 UTC"
+ "ultima_checagem": "07/11/2026 14:31 UTC"
 }
