@@ -120,9 +120,27 @@
   "https://sp-mod.com/mod/3312/bot-traversal": "Bot Traversal",
   "https://sp-mod.com/mod/3307/refextraquests-multi-lang": "RefExtraQuests - Multi_Lang",
   "https://sp-mod.com/mod/3321/automatic-weaponsmith": "Automatic Weaponsmith",
-  "https://sp-mod.com/mod/3319/zielhilfe-aim-assist": "Zielhilfe (Aim Assist)"
+  "https://sp-mod.com/mod/3319/zielhilfe-aim-assist": "Zielhilfe (Aim Assist)",
+  "https://sp-mod.com/mod/3324/add-side-plates": "Add Side Plates",
+  "https://sp-mod.com/mod/3323/even-more-bot-names": "EVEN MORE Bot Names",
+  "https://sp-mod.com/mod/3322/kaans-qol": "Kaan's QoL"
  },
  "novos": [
+  {
+   "titulo": "Kaan's QoL",
+   "link": "https://sp-mod.com/mod/3322/kaans-qol",
+   "data": "07/11/2026 23:24 UTC"
+  },
+  {
+   "titulo": "EVEN MORE Bot Names",
+   "link": "https://sp-mod.com/mod/3323/even-more-bot-names",
+   "data": "07/11/2026 23:24 UTC"
+  },
+  {
+   "titulo": "Add Side Plates",
+   "link": "https://sp-mod.com/mod/3324/add-side-plates",
+   "data": "07/11/2026 23:24 UTC"
+  },
   {
    "titulo": "Zielhilfe (Aim Assist)",
    "link": "https://sp-mod.com/mod/3319/zielhilfe-aim-assist",
@@ -357,22 +375,7 @@
    "titulo": "Windstille (Calm Wind)",
    "link": "https://sp-mod.com/mod/3270/windstille-calm-wind",
    "data": "03/11/2026 12:46 UTC"
-  },
-  {
-   "titulo": "AllesAnnehmen (Accept All)",
-   "link": "https://sp-mod.com/mod/3271/allesannehmen-accept-all",
-   "data": "03/11/2026 12:46 UTC"
-  },
-  {
-   "titulo": "BehaelterOhneGewicht (Weightless Secure Container)",
-   "link": "https://sp-mod.com/mod/3272/behaelterohnegewicht-weightless-secure-container",
-   "data": "03/11/2026 12:46 UTC"
-  },
-  {
-   "titulo": "WaermebildVisier (Thermal Through Scopes)",
-   "link": "https://sp-mod.com/mod/3274/waermebildvisier-thermal-through-scopes",
-   "data": "03/11/2026 12:46 UTC"
   }
  ],
- "ultima_checagem": "07/11/2026 18:27 UTC"
+ "ultima_checagem": "07/11/2026 23:24 UTC"
 }
