@@ -133,9 +133,15 @@
   "https://sp-mod.com/mod/3326/hideout-interiors": "Hideout Interiors",
   "https://sp-mod.com/mod/3325/binocular-ads": "Binocular ADS",
   "https://sp-mod.com/mod/3334/airdrop-controller": "Airdrop Controller",
-  "https://sp-mod.com/mod/3329/kingwatch": "KingWatch"
+  "https://sp-mod.com/mod/3329/kingwatch": "KingWatch",
+  "https://sp-mod.com/mod/3335/vinis-mac-10": "Vini's MAC-10"
  },
  "novos": [
+  {
+   "titulo": "Vini's MAC-10",
+   "link": "https://sp-mod.com/mod/3335/vinis-mac-10",
+   "data": "08/11/2026 23:26 UTC"
+  },
   {
    "titulo": "KingWatch",
    "link": "https://sp-mod.com/mod/3329/kingwatch",
@@ -380,12 +386,7 @@
    "titulo": "QuestItemESP",
    "link": "https://sp-mod.com/mod/3279/questitemesp",
    "data": "03/11/2026 14:44 UTC"
-  },
-  {
-   "titulo": "TuerAbschliessen (Lock Doors)",
-   "link": "https://sp-mod.com/mod/3280/tuerabschliessen-lock-doors",
-   "data": "03/11/2026 14:44 UTC"
   }
  ],
- "ultima_checagem": "08/11/2026 18:27 UTC"
+ "ultima_checagem": "08/11/2026 23:26 UTC"
 }
