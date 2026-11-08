@@ -131,9 +131,21 @@
   "https://sp-mod.com/mod/3328/raccooncam": "RaccoonCam",
   "https://sp-mod.com/mod/3327/spsave": "SPSave",
   "https://sp-mod.com/mod/3326/hideout-interiors": "Hideout Interiors",
-  "https://sp-mod.com/mod/3325/binocular-ads": "Binocular ADS"
+  "https://sp-mod.com/mod/3325/binocular-ads": "Binocular ADS",
+  "https://sp-mod.com/mod/3334/airdrop-controller": "Airdrop Controller",
+  "https://sp-mod.com/mod/3329/kingwatch": "KingWatch"
  },
  "novos": [
+  {
+   "titulo": "KingWatch",
+   "link": "https://sp-mod.com/mod/3329/kingwatch",
+   "data": "08/11/2026 16:27 UTC"
+  },
+  {
+   "titulo": "Airdrop Controller",
+   "link": "https://sp-mod.com/mod/3334/airdrop-controller",
+   "data": "08/11/2026 16:27 UTC"
+  },
   {
    "titulo": "Binocular ADS",
    "link": "https://sp-mod.com/mod/3325/binocular-ads",
@@ -373,17 +385,7 @@
    "titulo": "TuerAbschliessen (Lock Doors)",
    "link": "https://sp-mod.com/mod/3280/tuerabschliessen-lock-doors",
    "data": "03/11/2026 14:44 UTC"
-  },
-  {
-   "titulo": "AlleAusgaenge (All Extracts)",
-   "link": "https://sp-mod.com/mod/3281/alleausgaenge-all-extracts",
-   "data": "03/11/2026 14:44 UTC"
-  },
-  {
-   "titulo": "BalsamDauer (Golden Star Balm Duration)",
-   "link": "https://sp-mod.com/mod/3282/balsamdauer-golden-star-balm-duration",
-   "data": "03/11/2026 14:44 UTC"
   }
  ],
- "ultima_checagem": "08/11/2026 14:29 UTC"
+ "ultima_checagem": "08/11/2026 16:27 UTC"
 }
