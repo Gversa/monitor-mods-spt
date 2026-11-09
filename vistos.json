@@ -137,9 +137,15 @@
   "https://sp-mod.com/mod/3335/vinis-mac-10": "Vini's MAC-10",
   "https://sp-mod.com/mod/3338/zombie-control": "Zombie Control",
   "https://sp-mod.com/mod/3337/weight-leveling-redux": "Weight Leveling Redux",
-  "https://sp-mod.com/mod/3336/tsd-technologies": "TSD Technologies"
+  "https://sp-mod.com/mod/3336/tsd-technologies": "TSD Technologies",
+  "https://sp-mod.com/mod/3339/sages-playable-music-tapes": "Sage's Playable Music Tapes"
  },
  "novos": [
+  {
+   "titulo": "Sage's Playable Music Tapes",
+   "link": "https://sp-mod.com/mod/3339/sages-playable-music-tapes",
+   "data": "09/11/2026 16:54 UTC"
+  },
   {
    "titulo": "TSD Technologies",
    "link": "https://sp-mod.com/mod/3336/tsd-technologies",
@@ -384,12 +390,7 @@
    "titulo": "AutoLaufen (Auto Run)",
    "link": "https://sp-mod.com/mod/3275/autolaufen-auto-run",
    "data": "03/11/2026 14:44 UTC"
-  },
-  {
-   "titulo": "Beutetresor (Loot Safe)",
-   "link": "https://sp-mod.com/mod/3276/beutetresor-loot-safe",
-   "data": "03/11/2026 14:44 UTC"
   }
  ],
- "ultima_checagem": "09/11/2026 14:45 UTC"
+ "ultima_checagem": "09/11/2026 16:54 UTC"
 }
