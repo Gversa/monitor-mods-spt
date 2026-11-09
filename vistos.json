@@ -134,9 +134,27 @@
   "https://sp-mod.com/mod/3325/binocular-ads": "Binocular ADS",
   "https://sp-mod.com/mod/3334/airdrop-controller": "Airdrop Controller",
   "https://sp-mod.com/mod/3329/kingwatch": "KingWatch",
-  "https://sp-mod.com/mod/3335/vinis-mac-10": "Vini's MAC-10"
+  "https://sp-mod.com/mod/3335/vinis-mac-10": "Vini's MAC-10",
+  "https://sp-mod.com/mod/3338/zombie-control": "Zombie Control",
+  "https://sp-mod.com/mod/3337/weight-leveling-redux": "Weight Leveling Redux",
+  "https://sp-mod.com/mod/3336/tsd-technologies": "TSD Technologies"
  },
  "novos": [
+  {
+   "titulo": "TSD Technologies",
+   "link": "https://sp-mod.com/mod/3336/tsd-technologies",
+   "data": "09/11/2026 12:51 UTC"
+  },
+  {
+   "titulo": "Weight Leveling Redux",
+   "link": "https://sp-mod.com/mod/3337/weight-leveling-redux",
+   "data": "09/11/2026 12:51 UTC"
+  },
+  {
+   "titulo": "Zombie Control",
+   "link": "https://sp-mod.com/mod/3338/zombie-control",
+   "data": "09/11/2026 12:51 UTC"
+  },
   {
    "titulo": "Vini's MAC-10",
    "link": "https://sp-mod.com/mod/3335/vinis-mac-10",
@@ -371,22 +389,7 @@
    "titulo": "Beutetresor (Loot Safe)",
    "link": "https://sp-mod.com/mod/3276/beutetresor-loot-safe",
    "data": "03/11/2026 14:44 UTC"
-  },
-  {
-   "titulo": "Blickrichtung (Turn to Look Direction)",
-   "link": "https://sp-mod.com/mod/3277/blickrichtung-turn-to-look-direction",
-   "data": "03/11/2026 14:44 UTC"
-  },
-  {
-   "titulo": "KartentuerHacken (Hack Keycard Doors)",
-   "link": "https://sp-mod.com/mod/3278/kartentuerhacken-hack-keycard-doors",
-   "data": "03/11/2026 14:44 UTC"
-  },
-  {
-   "titulo": "QuestItemESP",
-   "link": "https://sp-mod.com/mod/3279/questitemesp",
-   "data": "03/11/2026 14:44 UTC"
   }
  ],
- "ultima_checagem": "08/11/2026 23:26 UTC"
+ "ultima_checagem": "09/11/2026 12:51 UTC"
 }
