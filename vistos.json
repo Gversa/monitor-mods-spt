@@ -139,9 +139,21 @@
   "https://sp-mod.com/mod/3337/weight-leveling-redux": "Weight Leveling Redux",
   "https://sp-mod.com/mod/3336/tsd-technologies": "TSD Technologies",
   "https://sp-mod.com/mod/3339/sages-playable-music-tapes": "Sage's Playable Music Tapes",
-  "https://sp-mod.com/mod/3341/uh60-fast-rope-insertion": "UH60 - Fast Rope Insertion"
+  "https://sp-mod.com/mod/3341/uh60-fast-rope-insertion": "UH60 - Fast Rope Insertion",
+  "https://sp-mod.com/mod/3343/fika-control": "Fika Control",
+  "https://sp-mod.com/mod/3342/vinis-m79": "Vini's M79"
  },
  "novos": [
+  {
+   "titulo": "Vini's M79",
+   "link": "https://sp-mod.com/mod/3342/vinis-m79",
+   "data": "10/11/2026 12:48 UTC"
+  },
+  {
+   "titulo": "Fika Control",
+   "link": "https://sp-mod.com/mod/3343/fika-control",
+   "data": "10/11/2026 12:48 UTC"
+  },
   {
    "titulo": "UH60 - Fast Rope Insertion",
    "link": "https://sp-mod.com/mod/3341/uh60-fast-rope-insertion",
@@ -381,17 +393,7 @@
    "titulo": "Raid Roulette [Beta]",
    "link": "https://sp-mod.com/mod/3290/raid-roulette-beta",
    "data": "03/11/2026 18:37 UTC"
-  },
-  {
-   "titulo": "AufgabenGepaeck (Quest Luggage + Quest Case)",
-   "link": "https://sp-mod.com/mod/3288/aufgabengepaeck-quest-luggage-quest-case",
-   "data": "03/11/2026 16:42 UTC"
-  },
-  {
-   "titulo": "Infrastructure Decay",
-   "link": "https://sp-mod.com/mod/3289/infrastructure-decay",
-   "data": "03/11/2026 16:42 UTC"
   }
  ],
- "ultima_checagem": "09/11/2026 23:29 UTC"
+ "ultima_checagem": "10/11/2026 12:48 UTC"
 }
