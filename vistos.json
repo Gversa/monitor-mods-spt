@@ -145,9 +145,15 @@
   "https://sp-mod.com/mod/3344/us-army-ranks": "US Army Ranks",
   "https://sp-mod.com/mod/3343/fika-hub": "Fika Hub",
   "https://sp-mod.com/mod/3346/healthy-inventory": "Healthy Inventory",
-  "https://sp-mod.com/mod/3345/save-room-music-in-hideout-re4r": "Save Room Music in Hideout [RE4R]"
+  "https://sp-mod.com/mod/3345/save-room-music-in-hideout-re4r": "Save Room Music in Hideout [RE4R]",
+  "https://sp-mod.com/mod/3347/waw-marine-raider-announcer": "WAW Marine Raider Announcer"
  },
  "novos": [
+  {
+   "titulo": "WAW Marine Raider Announcer",
+   "link": "https://sp-mod.com/mod/3347/waw-marine-raider-announcer",
+   "data": "11/11/2026 14:43 UTC"
+  },
   {
    "titulo": "Save Room Music in Hideout [RE4R]",
    "link": "https://sp-mod.com/mod/3345/save-room-music-in-hideout-re4r",
@@ -392,12 +398,7 @@
    "titulo": "DualWield – Akimbo Pistols",
    "link": "https://sp-mod.com/mod/3299/dualwield-akimbo-pistols",
    "data": "04/11/2026 23:33 UTC"
-  },
-  {
-   "titulo": "OnlyFence",
-   "link": "https://sp-mod.com/mod/3293/onlyfence",
-   "data": "04/11/2026 12:44 UTC"
   }
  ],
- "ultima_checagem": "11/11/2026 12:50 UTC"
+ "ultima_checagem": "11/11/2026 14:43 UTC"
 }
