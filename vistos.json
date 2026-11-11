@@ -143,9 +143,21 @@
   "https://sp-mod.com/mod/3343/fika-control": "Fika Control",
   "https://sp-mod.com/mod/3342/vinis-m79": "Vini's M79",
   "https://sp-mod.com/mod/3344/us-army-ranks": "US Army Ranks",
-  "https://sp-mod.com/mod/3343/fika-hub": "Fika Hub"
+  "https://sp-mod.com/mod/3343/fika-hub": "Fika Hub",
+  "https://sp-mod.com/mod/3346/healthy-inventory": "Healthy Inventory",
+  "https://sp-mod.com/mod/3345/save-room-music-in-hideout-re4r": "Save Room Music in Hideout [RE4R]"
  },
  "novos": [
+  {
+   "titulo": "Save Room Music in Hideout [RE4R]",
+   "link": "https://sp-mod.com/mod/3345/save-room-music-in-hideout-re4r",
+   "data": "11/11/2026 12:50 UTC"
+  },
+  {
+   "titulo": "Healthy Inventory",
+   "link": "https://sp-mod.com/mod/3346/healthy-inventory",
+   "data": "11/11/2026 12:50 UTC"
+  },
   {
    "titulo": "Fika Hub",
    "link": "https://sp-mod.com/mod/3343/fika-hub",
@@ -385,17 +397,7 @@
    "titulo": "OnlyFence",
    "link": "https://sp-mod.com/mod/3293/onlyfence",
    "data": "04/11/2026 12:44 UTC"
-  },
-  {
-   "titulo": "Hideout We Deserve - UI Improvements",
-   "link": "https://sp-mod.com/mod/3294/hideout-we-deserve-ui-improvements",
-   "data": "04/11/2026 12:44 UTC"
-  },
-  {
-   "titulo": "Hideout We Deserve - TimeRP",
-   "link": "https://sp-mod.com/mod/3295/hideout-we-deserve-timerp",
-   "data": "04/11/2026 12:44 UTC"
   }
  ],
- "ultima_checagem": "10/11/2026 23:25 UTC"
+ "ultima_checagem": "11/11/2026 12:50 UTC"
 }
