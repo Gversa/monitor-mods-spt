@@ -147,9 +147,33 @@
   "https://sp-mod.com/mod/3346/healthy-inventory": "Healthy Inventory",
   "https://sp-mod.com/mod/3345/save-room-music-in-hideout-re4r": "Save Room Music in Hideout [RE4R]",
   "https://sp-mod.com/mod/3347/waw-marine-raider-announcer": "WAW Marine Raider Announcer",
-  "https://sp-mod.com/mod/3348/sages-advanced-movement-sam": "Sage's Advanced Movement [SAM]"
+  "https://sp-mod.com/mod/3348/sages-advanced-movement-sam": "Sage's Advanced Movement [SAM]",
+  "https://sp-mod.com/mod/3352/dr-ks-spzombies": "Dr K's SPZombies",
+  "https://sp-mod.com/mod/3351/dr-ks-perk-beverages": "Dr K's Perk Beverages",
+  "https://sp-mod.com/mod/3350/minmaxed-incremental-item-container-item-nexus": "MinMaxed Incremental Item Container \"Item Nexus\"",
+  "https://sp-mod.com/mod/3349/toggle-placing-objectives": "Toggle Placing Objectives"
  },
  "novos": [
+  {
+   "titulo": "Toggle Placing Objectives",
+   "link": "https://sp-mod.com/mod/3349/toggle-placing-objectives",
+   "data": "11/11/2026 23:40 UTC"
+  },
+  {
+   "titulo": "MinMaxed Incremental Item Container \"Item Nexus\"",
+   "link": "https://sp-mod.com/mod/3350/minmaxed-incremental-item-container-item-nexus",
+   "data": "11/11/2026 23:40 UTC"
+  },
+  {
+   "titulo": "Dr K's Perk Beverages",
+   "link": "https://sp-mod.com/mod/3351/dr-ks-perk-beverages",
+   "data": "11/11/2026 23:40 UTC"
+  },
+  {
+   "titulo": "Dr K's SPZombies",
+   "link": "https://sp-mod.com/mod/3352/dr-ks-spzombies",
+   "data": "11/11/2026 23:40 UTC"
+  },
   {
    "titulo": "Sage's Advanced Movement [SAM]",
    "link": "https://sp-mod.com/mod/3348/sages-advanced-movement-sam",
@@ -379,27 +403,7 @@
    "titulo": "Tactical Supply Drops",
    "link": "https://sp-mod.com/mod/3301/tactical-supply-drops",
    "data": "05/11/2026 12:50 UTC"
-  },
-  {
-   "titulo": "Tactical Comfort",
-   "link": "https://sp-mod.com/mod/3302/tactical-comfort",
-   "data": "05/11/2026 12:50 UTC"
-  },
-  {
-   "titulo": "Generator off on exit",
-   "link": "https://sp-mod.com/mod/3303/generator-off-on-exit",
-   "data": "05/11/2026 12:50 UTC"
-  },
-  {
-   "titulo": "Newspaper",
-   "link": "https://sp-mod.com/mod/3297/newspaper",
-   "data": "04/11/2026 23:33 UTC"
-  },
-  {
-   "titulo": "Weapon Build Screen Tilt",
-   "link": "https://sp-mod.com/mod/3298/weapon-build-screen-tilt",
-   "data": "04/11/2026 23:33 UTC"
   }
  ],
- "ultima_checagem": "11/11/2026 18:41 UTC"
+ "ultima_checagem": "11/11/2026 23:40 UTC"
 }
