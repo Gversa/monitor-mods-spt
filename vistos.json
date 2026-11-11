@@ -146,9 +146,15 @@
   "https://sp-mod.com/mod/3343/fika-hub": "Fika Hub",
   "https://sp-mod.com/mod/3346/healthy-inventory": "Healthy Inventory",
   "https://sp-mod.com/mod/3345/save-room-music-in-hideout-re4r": "Save Room Music in Hideout [RE4R]",
-  "https://sp-mod.com/mod/3347/waw-marine-raider-announcer": "WAW Marine Raider Announcer"
+  "https://sp-mod.com/mod/3347/waw-marine-raider-announcer": "WAW Marine Raider Announcer",
+  "https://sp-mod.com/mod/3348/sages-advanced-movement-sam": "Sage's Advanced Movement [SAM]"
  },
  "novos": [
+  {
+   "titulo": "Sage's Advanced Movement [SAM]",
+   "link": "https://sp-mod.com/mod/3348/sages-advanced-movement-sam",
+   "data": "11/11/2026 18:41 UTC"
+  },
   {
    "titulo": "WAW Marine Raider Announcer",
    "link": "https://sp-mod.com/mod/3347/waw-marine-raider-announcer",
@@ -393,12 +399,7 @@
    "titulo": "Weapon Build Screen Tilt",
    "link": "https://sp-mod.com/mod/3298/weapon-build-screen-tilt",
    "data": "04/11/2026 23:33 UTC"
-  },
-  {
-   "titulo": "DualWield – Akimbo Pistols",
-   "link": "https://sp-mod.com/mod/3299/dualwield-akimbo-pistols",
-   "data": "04/11/2026 23:33 UTC"
   }
  ],
- "ultima_checagem": "11/11/2026 16:43 UTC"
+ "ultima_checagem": "11/11/2026 18:41 UTC"
 }
