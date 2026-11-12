@@ -151,9 +151,27 @@
   "https://sp-mod.com/mod/3352/dr-ks-spzombies": "Dr K's SPZombies",
   "https://sp-mod.com/mod/3351/dr-ks-perk-beverages": "Dr K's Perk Beverages",
   "https://sp-mod.com/mod/3350/minmaxed-incremental-item-container-item-nexus": "MinMaxed Incremental Item Container \"Item Nexus\"",
-  "https://sp-mod.com/mod/3349/toggle-placing-objectives": "Toggle Placing Objectives"
+  "https://sp-mod.com/mod/3349/toggle-placing-objectives": "Toggle Placing Objectives",
+  "https://sp-mod.com/mod/3355/armor-tweaks-and-additions": "Armor Tweaks and Additions",
+  "https://sp-mod.com/mod/3354/bay-5": "Bay 5",
+  "https://sp-mod.com/mod/3353/hideout-last-stand": "Hideout Last Stand"
  },
  "novos": [
+  {
+   "titulo": "Hideout Last Stand",
+   "link": "https://sp-mod.com/mod/3353/hideout-last-stand",
+   "data": "12/11/2026 12:51 UTC"
+  },
+  {
+   "titulo": "Bay 5",
+   "link": "https://sp-mod.com/mod/3354/bay-5",
+   "data": "12/11/2026 12:51 UTC"
+  },
+  {
+   "titulo": "Armor Tweaks and Additions",
+   "link": "https://sp-mod.com/mod/3355/armor-tweaks-and-additions",
+   "data": "12/11/2026 12:51 UTC"
+  },
   {
    "titulo": "Toggle Placing Objectives",
    "link": "https://sp-mod.com/mod/3349/toggle-placing-objectives",
@@ -388,22 +406,7 @@
    "titulo": "RefExtraQuests",
    "link": "https://sp-mod.com/mod/3307/refextraquests",
    "data": "05/11/2026 23:35 UTC"
-  },
-  {
-   "titulo": "K.M.A. - BodyDrag",
-   "link": "https://sp-mod.com/mod/3308/kma-bodydrag",
-   "data": "05/11/2026 23:35 UTC"
-  },
-  {
-   "titulo": "K.M.A. - Solo",
-   "link": "https://sp-mod.com/mod/3304/kma-solo",
-   "data": "05/11/2026 16:56 UTC"
-  },
-  {
-   "titulo": "Tactical Supply Drops",
-   "link": "https://sp-mod.com/mod/3301/tactical-supply-drops",
-   "data": "05/11/2026 12:50 UTC"
   }
  ],
- "ultima_checagem": "11/11/2026 23:40 UTC"
+ "ultima_checagem": "12/11/2026 12:51 UTC"
 }
