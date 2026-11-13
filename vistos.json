@@ -159,9 +159,39 @@
   "https://sp-mod.com/mod/3361/world-mail-alerts": "World Mail Alerts",
   "https://sp-mod.com/mod/3360/gravity": "Gravity",
   "https://sp-mod.com/mod/3359/arenagear": "ArenaGear",
-  "https://sp-mod.com/mod/3358/gamepanelhud": "GamePanelHUD"
+  "https://sp-mod.com/mod/3358/gamepanelhud": "GamePanelHUD",
+  "https://sp-mod.com/mod/3367/real-sound-simulation": "Real Sound Simulation",
+  "https://sp-mod.com/mod/3366/aeros-grenading": "Aero's Grenading",
+  "https://sp-mod.com/mod/3365/aeros-movement": "Aero's Movement",
+  "https://sp-mod.com/mod/3364/kirisame-mag-reload-in-place-magazine-swap-no-drop-fix": "Kirisame Mag Reload — in-place magazine swap & no-drop fix",
+  "https://sp-mod.com/mod/3363/anarchy-flea": "Anarchy Flea"
  },
  "novos": [
+  {
+   "titulo": "Anarchy Flea",
+   "link": "https://sp-mod.com/mod/3363/anarchy-flea",
+   "data": "13/11/2026 23:30 UTC"
+  },
+  {
+   "titulo": "Kirisame Mag Reload — in-place magazine swap & no-drop fix",
+   "link": "https://sp-mod.com/mod/3364/kirisame-mag-reload-in-place-magazine-swap-no-drop-fix",
+   "data": "13/11/2026 23:30 UTC"
+  },
+  {
+   "titulo": "Aero's Movement",
+   "link": "https://sp-mod.com/mod/3365/aeros-movement",
+   "data": "13/11/2026 23:30 UTC"
+  },
+  {
+   "titulo": "Aero's Grenading",
+   "link": "https://sp-mod.com/mod/3366/aeros-grenading",
+   "data": "13/11/2026 23:30 UTC"
+  },
+  {
+   "titulo": "Real Sound Simulation",
+   "link": "https://sp-mod.com/mod/3367/real-sound-simulation",
+   "data": "13/11/2026 23:30 UTC"
+  },
   {
    "titulo": "GamePanelHUD",
    "link": "https://sp-mod.com/mod/3358/gamepanelhud",
@@ -386,32 +416,7 @@
    "titulo": "No Scav Screen",
    "link": "https://sp-mod.com/mod/3318/no-scav-screen",
    "data": "07/11/2026 12:32 UTC"
-  },
-  {
-   "titulo": "Tushonkapedia",
-   "link": "https://sp-mod.com/mod/3309/tushonkapedia",
-   "data": "06/11/2026 23:28 UTC"
-  },
-  {
-   "titulo": "Skipper - BTR  / Lightkeeper Addon",
-   "link": "https://sp-mod.com/mod/3315/skipper-btr-lightkeeper-addon",
-   "data": "06/11/2026 18:40 UTC"
-  },
-  {
-   "titulo": "Service Stars",
-   "link": "https://sp-mod.com/mod/3316/service-stars",
-   "data": "06/11/2026 18:40 UTC"
-  },
-  {
-   "titulo": "World Mail Countdown_Multi-Lang (16)",
-   "link": "https://sp-mod.com/mod/3310/world-mail-countdown-multi-lang-16",
-   "data": "06/11/2026 16:40 UTC"
-  },
-  {
-   "titulo": "Sound Engine Backport",
-   "link": "https://sp-mod.com/mod/3314/sound-engine-backport",
-   "data": "06/11/2026 16:40 UTC"
   }
  ],
- "ultima_checagem": "13/11/2026 18:39 UTC"
+ "ultima_checagem": "13/11/2026 23:30 UTC"
 }
