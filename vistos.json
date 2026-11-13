@@ -154,9 +154,39 @@
   "https://sp-mod.com/mod/3349/toggle-placing-objectives": "Toggle Placing Objectives",
   "https://sp-mod.com/mod/3355/armor-tweaks-and-additions": "Armor Tweaks and Additions",
   "https://sp-mod.com/mod/3354/bay-5": "Bay 5",
-  "https://sp-mod.com/mod/3353/hideout-last-stand": "Hideout Last Stand"
+  "https://sp-mod.com/mod/3353/hideout-last-stand": "Hideout Last Stand",
+  "https://sp-mod.com/mod/3362/horizon": "HORIZON",
+  "https://sp-mod.com/mod/3361/world-mail-alerts": "World Mail Alerts",
+  "https://sp-mod.com/mod/3360/gravity": "Gravity",
+  "https://sp-mod.com/mod/3359/arenagear": "ArenaGear",
+  "https://sp-mod.com/mod/3358/gamepanelhud": "GamePanelHUD"
  },
  "novos": [
+  {
+   "titulo": "GamePanelHUD",
+   "link": "https://sp-mod.com/mod/3358/gamepanelhud",
+   "data": "13/11/2026 12:50 UTC"
+  },
+  {
+   "titulo": "ArenaGear",
+   "link": "https://sp-mod.com/mod/3359/arenagear",
+   "data": "13/11/2026 12:50 UTC"
+  },
+  {
+   "titulo": "Gravity",
+   "link": "https://sp-mod.com/mod/3360/gravity",
+   "data": "13/11/2026 12:50 UTC"
+  },
+  {
+   "titulo": "World Mail Alerts",
+   "link": "https://sp-mod.com/mod/3361/world-mail-alerts",
+   "data": "13/11/2026 12:50 UTC"
+  },
+  {
+   "titulo": "HORIZON",
+   "link": "https://sp-mod.com/mod/3362/horizon",
+   "data": "13/11/2026 12:50 UTC"
+  },
   {
    "titulo": "Hideout Last Stand",
    "link": "https://sp-mod.com/mod/3353/hideout-last-stand",
@@ -381,32 +411,7 @@
    "titulo": "Sound Engine Backport",
    "link": "https://sp-mod.com/mod/3314/sound-engine-backport",
    "data": "06/11/2026 16:40 UTC"
-  },
-  {
-   "titulo": "World Mail Countdown",
-   "link": "https://sp-mod.com/mod/3310/world-mail-countdown",
-   "data": "06/11/2026 12:46 UTC"
-  },
-  {
-   "titulo": "Multipurpose Drone [Beta]",
-   "link": "https://sp-mod.com/mod/3311/multipurpose-drone-beta",
-   "data": "06/11/2026 12:46 UTC"
-  },
-  {
-   "titulo": "Seamless Swap",
-   "link": "https://sp-mod.com/mod/3313/seamless-swap",
-   "data": "06/11/2026 12:46 UTC"
-  },
-  {
-   "titulo": "SWAG + Donuts",
-   "link": "https://sp-mod.com/mod/3306/swag-donuts",
-   "data": "05/11/2026 23:35 UTC"
-  },
-  {
-   "titulo": "RefExtraQuests",
-   "link": "https://sp-mod.com/mod/3307/refextraquests",
-   "data": "05/11/2026 23:35 UTC"
   }
  ],
- "ultima_checagem": "12/11/2026 23:32 UTC"
+ "ultima_checagem": "13/11/2026 12:50 UTC"
 }
