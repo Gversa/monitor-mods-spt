@@ -168,9 +168,15 @@
   "https://sp-mod.com/mod/3370/the-bot-loading-freeze-fix": "The Bot Loading Freeze Fix",
   "https://sp-mod.com/mod/3369/manimals-halloween-2026-backport": "Manimal's Halloween 2026 Backport",
   "https://sp-mod.com/mod/3368/air-strafing": "Air Strafing",
-  "https://sp-mod.com/mod/3361/world-mail-alerts-history-money-graph-add-16-translations": "World Mail Alerts - History & Money Graph -> Add 16 Translations"
+  "https://sp-mod.com/mod/3361/world-mail-alerts-history-money-graph-add-16-translations": "World Mail Alerts - History & Money Graph -> Add 16 Translations",
+  "https://sp-mod.com/mod/3367/real-sound-simulation-beta": "Real Sound Simulation (BETA)"
  },
  "novos": [
+  {
+   "titulo": "Real Sound Simulation (BETA)",
+   "link": "https://sp-mod.com/mod/3367/real-sound-simulation-beta",
+   "data": "14/11/2026 16:28 UTC"
+  },
   {
    "titulo": "World Mail Alerts - History & Money Graph -> Add 16 Translations",
    "link": "https://sp-mod.com/mod/3361/world-mail-alerts-history-money-graph-add-16-translations",
@@ -415,12 +421,7 @@
    "titulo": "Zielhilfe (Aim Assist)",
    "link": "https://sp-mod.com/mod/3319/zielhilfe-aim-assist",
    "data": "07/11/2026 14:31 UTC"
-  },
-  {
-   "titulo": "Automatic Weaponsmith",
-   "link": "https://sp-mod.com/mod/3321/automatic-weaponsmith",
-   "data": "07/11/2026 14:31 UTC"
   }
  ],
- "ultima_checagem": "14/11/2026 14:32 UTC"
+ "ultima_checagem": "14/11/2026 16:28 UTC"
 }
