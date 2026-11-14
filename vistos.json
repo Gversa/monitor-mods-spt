@@ -164,9 +164,33 @@
   "https://sp-mod.com/mod/3366/aeros-grenading": "Aero's Grenading",
   "https://sp-mod.com/mod/3365/aeros-movement": "Aero's Movement",
   "https://sp-mod.com/mod/3364/kirisame-mag-reload-in-place-magazine-swap-no-drop-fix": "Kirisame Mag Reload — in-place magazine swap & no-drop fix",
-  "https://sp-mod.com/mod/3363/anarchy-flea": "Anarchy Flea"
+  "https://sp-mod.com/mod/3363/anarchy-flea": "Anarchy Flea",
+  "https://sp-mod.com/mod/3370/the-bot-loading-freeze-fix": "The Bot Loading Freeze Fix",
+  "https://sp-mod.com/mod/3369/manimals-halloween-2026-backport": "Manimal's Halloween 2026 Backport",
+  "https://sp-mod.com/mod/3368/air-strafing": "Air Strafing",
+  "https://sp-mod.com/mod/3361/world-mail-alerts-history-money-graph-add-16-translations": "World Mail Alerts - History & Money Graph -> Add 16 Translations"
  },
  "novos": [
+  {
+   "titulo": "World Mail Alerts - History & Money Graph -> Add 16 Translations",
+   "link": "https://sp-mod.com/mod/3361/world-mail-alerts-history-money-graph-add-16-translations",
+   "data": "14/11/2026 12:31 UTC"
+  },
+  {
+   "titulo": "Air Strafing",
+   "link": "https://sp-mod.com/mod/3368/air-strafing",
+   "data": "14/11/2026 12:31 UTC"
+  },
+  {
+   "titulo": "Manimal's Halloween 2026 Backport",
+   "link": "https://sp-mod.com/mod/3369/manimals-halloween-2026-backport",
+   "data": "14/11/2026 12:31 UTC"
+  },
+  {
+   "titulo": "The Bot Loading Freeze Fix",
+   "link": "https://sp-mod.com/mod/3370/the-bot-loading-freeze-fix",
+   "data": "14/11/2026 12:31 UTC"
+  },
   {
    "titulo": "Anarchy Flea",
    "link": "https://sp-mod.com/mod/3363/anarchy-flea",
@@ -396,27 +420,7 @@
    "titulo": "Automatic Weaponsmith",
    "link": "https://sp-mod.com/mod/3321/automatic-weaponsmith",
    "data": "07/11/2026 14:31 UTC"
-  },
-  {
-   "titulo": "RefExtraQuests - Multi_Lang",
-   "link": "https://sp-mod.com/mod/3307/refextraquests-multi-lang",
-   "data": "07/11/2026 12:32 UTC"
-  },
-  {
-   "titulo": "Bot Traversal",
-   "link": "https://sp-mod.com/mod/3312/bot-traversal",
-   "data": "07/11/2026 12:32 UTC"
-  },
-  {
-   "titulo": "T∗∗∗∗∗ Override [SP CHEAT]",
-   "link": "https://sp-mod.com/mod/3317/t-override-sp-cheat",
-   "data": "07/11/2026 12:32 UTC"
-  },
-  {
-   "titulo": "No Scav Screen",
-   "link": "https://sp-mod.com/mod/3318/no-scav-screen",
-   "data": "07/11/2026 12:32 UTC"
   }
  ],
- "ultima_checagem": "13/11/2026 23:30 UTC"
+ "ultima_checagem": "14/11/2026 12:31 UTC"
 }
