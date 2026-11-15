@@ -173,9 +173,45 @@
   "https://sp-mod.com/mod/3371/killionaire": "Killionaire",
   "https://sp-mod.com/mod/3374/weapon-parts-stats-display-wpsd": "Weapon Parts Stats Display (WPSD)",
   "https://sp-mod.com/mod/3373/satellite": "Satellite",
-  "https://sp-mod.com/mod/3372/total-optimization": "Total Optimization"
+  "https://sp-mod.com/mod/3372/total-optimization": "Total Optimization",
+  "https://sp-mod.com/mod/3381/supine-position": "Supine Position",
+  "https://sp-mod.com/mod/3379/wwc-wet-works-company": "WWC - Wet Works Company",
+  "https://sp-mod.com/mod/3378/hideout-posters": "Hideout Posters",
+  "https://sp-mod.com/mod/3377/adaptive-trader-ui": "Adaptive Trader UI",
+  "https://sp-mod.com/mod/3376/zero-menu-time": "Zero Menu Time",
+  "https://sp-mod.com/mod/3375/socom-armory-unofficial-spt-416-port": "SOCOM Armory — Unofficial SPT 4.1.6 Port"
  },
  "novos": [
+  {
+   "titulo": "SOCOM Armory — Unofficial SPT 4.1.6 Port",
+   "link": "https://sp-mod.com/mod/3375/socom-armory-unofficial-spt-416-port",
+   "data": "15/11/2026 12:33 UTC"
+  },
+  {
+   "titulo": "Zero Menu Time",
+   "link": "https://sp-mod.com/mod/3376/zero-menu-time",
+   "data": "15/11/2026 12:33 UTC"
+  },
+  {
+   "titulo": "Adaptive Trader UI",
+   "link": "https://sp-mod.com/mod/3377/adaptive-trader-ui",
+   "data": "15/11/2026 12:33 UTC"
+  },
+  {
+   "titulo": "Hideout Posters",
+   "link": "https://sp-mod.com/mod/3378/hideout-posters",
+   "data": "15/11/2026 12:33 UTC"
+  },
+  {
+   "titulo": "WWC - Wet Works Company",
+   "link": "https://sp-mod.com/mod/3379/wwc-wet-works-company",
+   "data": "15/11/2026 12:33 UTC"
+  },
+  {
+   "titulo": "Supine Position",
+   "link": "https://sp-mod.com/mod/3381/supine-position",
+   "data": "15/11/2026 12:33 UTC"
+  },
   {
    "titulo": "Total Optimization",
    "link": "https://sp-mod.com/mod/3372/total-optimization",
@@ -395,37 +431,7 @@
    "titulo": "Hideout Interiors",
    "link": "https://sp-mod.com/mod/3326/hideout-interiors",
    "data": "08/11/2026 12:31 UTC"
-  },
-  {
-   "titulo": "SPSave",
-   "link": "https://sp-mod.com/mod/3327/spsave",
-   "data": "08/11/2026 12:31 UTC"
-  },
-  {
-   "titulo": "RaccoonCam",
-   "link": "https://sp-mod.com/mod/3328/raccooncam",
-   "data": "08/11/2026 12:31 UTC"
-  },
-  {
-   "titulo": "MontreTactique",
-   "link": "https://sp-mod.com/mod/3329/montretactique",
-   "data": "08/11/2026 12:31 UTC"
-  },
-  {
-   "titulo": "Leon S. Kennedy Skin + Voice [RE4R]",
-   "link": "https://sp-mod.com/mod/3330/leon-s-kennedy-skin-voice-re4r",
-   "data": "08/11/2026 12:31 UTC"
-  },
-  {
-   "titulo": "Shipment",
-   "link": "https://sp-mod.com/mod/3331/shipment",
-   "data": "08/11/2026 12:31 UTC"
-  },
-  {
-   "titulo": "Prestige Perks",
-   "link": "https://sp-mod.com/mod/3332/prestige-perks",
-   "data": "08/11/2026 12:31 UTC"
   }
  ],
- "ultima_checagem": "14/11/2026 23:25 UTC"
+ "ultima_checagem": "15/11/2026 12:33 UTC"
 }
