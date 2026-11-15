@@ -179,9 +179,15 @@
   "https://sp-mod.com/mod/3378/hideout-posters": "Hideout Posters",
   "https://sp-mod.com/mod/3377/adaptive-trader-ui": "Adaptive Trader UI",
   "https://sp-mod.com/mod/3376/zero-menu-time": "Zero Menu Time",
-  "https://sp-mod.com/mod/3375/socom-armory-unofficial-spt-416-port": "SOCOM Armory — Unofficial SPT 4.1.6 Port"
+  "https://sp-mod.com/mod/3375/socom-armory-unofficial-spt-416-port": "SOCOM Armory — Unofficial SPT 4.1.6 Port",
+  "https://sp-mod.com/mod/3382/shootable-airdrops": "Shootable Airdrops"
  },
  "novos": [
+  {
+   "titulo": "Shootable Airdrops",
+   "link": "https://sp-mod.com/mod/3382/shootable-airdrops",
+   "data": "15/11/2026 14:34 UTC"
+  },
   {
    "titulo": "SOCOM Armory — Unofficial SPT 4.1.6 Port",
    "link": "https://sp-mod.com/mod/3375/socom-armory-unofficial-spt-416-port",
@@ -426,12 +432,7 @@
    "titulo": "Binocular ADS",
    "link": "https://sp-mod.com/mod/3325/binocular-ads",
    "data": "08/11/2026 12:31 UTC"
-  },
-  {
-   "titulo": "Hideout Interiors",
-   "link": "https://sp-mod.com/mod/3326/hideout-interiors",
-   "data": "08/11/2026 12:31 UTC"
   }
  ],
- "ultima_checagem": "15/11/2026 12:33 UTC"
+ "ultima_checagem": "15/11/2026 14:34 UTC"
 }
