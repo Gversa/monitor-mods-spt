@@ -181,9 +181,39 @@
   "https://sp-mod.com/mod/3376/zero-menu-time": "Zero Menu Time",
   "https://sp-mod.com/mod/3375/socom-armory-unofficial-spt-416-port": "SOCOM Armory — Unofficial SPT 4.1.6 Port",
   "https://sp-mod.com/mod/3382/shootable-airdrops": "Shootable Airdrops",
-  "https://sp-mod.com/mod/3383/tushonka-horsey": "Tushonka Horsey"
+  "https://sp-mod.com/mod/3383/tushonka-horsey": "Tushonka Horsey",
+  "https://sp-mod.com/mod/3387/socom-genesis-12": "SOCOM GENESIS-12",
+  "https://sp-mod.com/mod/3386/shoreline-hay-field": "Shoreline Hay Field",
+  "https://sp-mod.com/mod/3385/socom-expansion-core": "SOCOM Expansion Core",
+  "https://sp-mod.com/mod/3384/stat-index": "Stat Index",
+  "https://sp-mod.com/mod/3378/hideout-posters-beta": "Hideout Posters - [BETA]"
  },
  "novos": [
+  {
+   "titulo": "Hideout Posters - [BETA]",
+   "link": "https://sp-mod.com/mod/3378/hideout-posters-beta",
+   "data": "15/11/2026 23:35 UTC"
+  },
+  {
+   "titulo": "Stat Index",
+   "link": "https://sp-mod.com/mod/3384/stat-index",
+   "data": "15/11/2026 23:35 UTC"
+  },
+  {
+   "titulo": "SOCOM Expansion Core",
+   "link": "https://sp-mod.com/mod/3385/socom-expansion-core",
+   "data": "15/11/2026 23:35 UTC"
+  },
+  {
+   "titulo": "Shoreline Hay Field",
+   "link": "https://sp-mod.com/mod/3386/shoreline-hay-field",
+   "data": "15/11/2026 23:35 UTC"
+  },
+  {
+   "titulo": "SOCOM GENESIS-12",
+   "link": "https://sp-mod.com/mod/3387/socom-genesis-12",
+   "data": "15/11/2026 23:35 UTC"
+  },
   {
    "titulo": "Tushonka Horsey",
    "link": "https://sp-mod.com/mod/3383/tushonka-horsey",
@@ -408,32 +438,7 @@
    "titulo": "TSD Technologies",
    "link": "https://sp-mod.com/mod/3336/tsd-technologies",
    "data": "09/11/2026 12:51 UTC"
-  },
-  {
-   "titulo": "Weight Leveling Redux",
-   "link": "https://sp-mod.com/mod/3337/weight-leveling-redux",
-   "data": "09/11/2026 12:51 UTC"
-  },
-  {
-   "titulo": "Zombie Control",
-   "link": "https://sp-mod.com/mod/3338/zombie-control",
-   "data": "09/11/2026 12:51 UTC"
-  },
-  {
-   "titulo": "Vini's MAC-10",
-   "link": "https://sp-mod.com/mod/3335/vinis-mac-10",
-   "data": "08/11/2026 23:26 UTC"
-  },
-  {
-   "titulo": "KingWatch",
-   "link": "https://sp-mod.com/mod/3329/kingwatch",
-   "data": "08/11/2026 16:27 UTC"
-  },
-  {
-   "titulo": "Airdrop Controller",
-   "link": "https://sp-mod.com/mod/3334/airdrop-controller",
-   "data": "08/11/2026 16:27 UTC"
   }
  ],
- "ultima_checagem": "15/11/2026 18:29 UTC"
+ "ultima_checagem": "15/11/2026 23:35 UTC"
 }
