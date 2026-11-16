@@ -186,9 +186,27 @@
   "https://sp-mod.com/mod/3386/shoreline-hay-field": "Shoreline Hay Field",
   "https://sp-mod.com/mod/3385/socom-expansion-core": "SOCOM Expansion Core",
   "https://sp-mod.com/mod/3384/stat-index": "Stat Index",
-  "https://sp-mod.com/mod/3378/hideout-posters-beta": "Hideout Posters - [BETA]"
+  "https://sp-mod.com/mod/3378/hideout-posters-beta": "Hideout Posters - [BETA]",
+  "https://sp-mod.com/mod/3391/dlc-cod-head-pack-1": "DLC - COD Head Pack 1",
+  "https://sp-mod.com/mod/3390/realistic-thermal-scopes-unofficial-spt-416-port": "Realistic Thermal Scopes — Unofficial SPT 4.1.6 Port",
+  "https://sp-mod.com/mod/3389/complicated-character-core-early": "Complicated Character Core [EARLY]"
  },
  "novos": [
+  {
+   "titulo": "Complicated Character Core [EARLY]",
+   "link": "https://sp-mod.com/mod/3389/complicated-character-core-early",
+   "data": "16/11/2026 14:46 UTC"
+  },
+  {
+   "titulo": "Realistic Thermal Scopes — Unofficial SPT 4.1.6 Port",
+   "link": "https://sp-mod.com/mod/3390/realistic-thermal-scopes-unofficial-spt-416-port",
+   "data": "16/11/2026 14:46 UTC"
+  },
+  {
+   "titulo": "DLC - COD Head Pack 1",
+   "link": "https://sp-mod.com/mod/3391/dlc-cod-head-pack-1",
+   "data": "16/11/2026 14:46 UTC"
+  },
   {
    "titulo": "Hideout Posters - [BETA]",
    "link": "https://sp-mod.com/mod/3378/hideout-posters-beta",
@@ -423,22 +441,7 @@
    "titulo": "Fika Control",
    "link": "https://sp-mod.com/mod/3343/fika-control",
    "data": "10/11/2026 12:48 UTC"
-  },
-  {
-   "titulo": "UH60 - Fast Rope Insertion",
-   "link": "https://sp-mod.com/mod/3341/uh60-fast-rope-insertion",
-   "data": "09/11/2026 23:29 UTC"
-  },
-  {
-   "titulo": "Sage's Playable Music Tapes",
-   "link": "https://sp-mod.com/mod/3339/sages-playable-music-tapes",
-   "data": "09/11/2026 16:54 UTC"
-  },
-  {
-   "titulo": "TSD Technologies",
-   "link": "https://sp-mod.com/mod/3336/tsd-technologies",
-   "data": "09/11/2026 12:51 UTC"
   }
  ],
- "ultima_checagem": "15/11/2026 23:35 UTC"
+ "ultima_checagem": "16/11/2026 14:46 UTC"
 }
