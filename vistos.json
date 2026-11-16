@@ -190,9 +190,15 @@
   "https://sp-mod.com/mod/3391/dlc-cod-head-pack-1": "DLC - COD Head Pack 1",
   "https://sp-mod.com/mod/3390/realistic-thermal-scopes-unofficial-spt-416-port": "Realistic Thermal Scopes — Unofficial SPT 4.1.6 Port",
   "https://sp-mod.com/mod/3389/complicated-character-core-early": "Complicated Character Core [EARLY]",
-  "https://sp-mod.com/mod/3394/a-better-healthcare-system": "A Better Healthcare System"
+  "https://sp-mod.com/mod/3394/a-better-healthcare-system": "A Better Healthcare System",
+  "https://sp-mod.com/mod/3393/ammo-graph": "Ammo Graph"
  },
  "novos": [
+  {
+   "titulo": "Ammo Graph",
+   "link": "https://sp-mod.com/mod/3393/ammo-graph",
+   "data": "16/11/2026 23:33 UTC"
+  },
   {
    "titulo": "A Better Healthcare System",
    "link": "https://sp-mod.com/mod/3394/a-better-healthcare-system",
@@ -437,12 +443,7 @@
    "titulo": "US Army Ranks",
    "link": "https://sp-mod.com/mod/3344/us-army-ranks",
    "data": "10/11/2026 16:39 UTC"
-  },
-  {
-   "titulo": "Vini's M79",
-   "link": "https://sp-mod.com/mod/3342/vinis-m79",
-   "data": "10/11/2026 12:48 UTC"
   }
  ],
- "ultima_checagem": "16/11/2026 18:44 UTC"
+ "ultima_checagem": "16/11/2026 23:33 UTC"
 }
