@@ -189,9 +189,15 @@
   "https://sp-mod.com/mod/3378/hideout-posters-beta": "Hideout Posters - [BETA]",
   "https://sp-mod.com/mod/3391/dlc-cod-head-pack-1": "DLC - COD Head Pack 1",
   "https://sp-mod.com/mod/3390/realistic-thermal-scopes-unofficial-spt-416-port": "Realistic Thermal Scopes — Unofficial SPT 4.1.6 Port",
-  "https://sp-mod.com/mod/3389/complicated-character-core-early": "Complicated Character Core [EARLY]"
+  "https://sp-mod.com/mod/3389/complicated-character-core-early": "Complicated Character Core [EARLY]",
+  "https://sp-mod.com/mod/3394/a-better-healthcare-system": "A Better Healthcare System"
  },
  "novos": [
+  {
+   "titulo": "A Better Healthcare System",
+   "link": "https://sp-mod.com/mod/3394/a-better-healthcare-system",
+   "data": "16/11/2026 18:44 UTC"
+  },
   {
    "titulo": "Complicated Character Core [EARLY]",
    "link": "https://sp-mod.com/mod/3389/complicated-character-core-early",
@@ -436,12 +442,7 @@
    "titulo": "Vini's M79",
    "link": "https://sp-mod.com/mod/3342/vinis-m79",
    "data": "10/11/2026 12:48 UTC"
-  },
-  {
-   "titulo": "Fika Control",
-   "link": "https://sp-mod.com/mod/3343/fika-control",
-   "data": "10/11/2026 12:48 UTC"
   }
  ],
- "ultima_checagem": "16/11/2026 17:01 UTC"
+ "ultima_checagem": "16/11/2026 18:44 UTC"
 }
