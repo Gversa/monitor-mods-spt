@@ -191,9 +191,15 @@
   "https://sp-mod.com/mod/3390/realistic-thermal-scopes-unofficial-spt-416-port": "Realistic Thermal Scopes — Unofficial SPT 4.1.6 Port",
   "https://sp-mod.com/mod/3389/complicated-character-core-early": "Complicated Character Core [EARLY]",
   "https://sp-mod.com/mod/3394/a-better-healthcare-system": "A Better Healthcare System",
-  "https://sp-mod.com/mod/3393/ammo-graph": "Ammo Graph"
+  "https://sp-mod.com/mod/3393/ammo-graph": "Ammo Graph",
+  "https://sp-mod.com/mod/3396/qnas-qnebs-adjustment-suite": "QNAS — QNebs Adjustment Suite"
  },
  "novos": [
+  {
+   "titulo": "QNAS — QNebs Adjustment Suite",
+   "link": "https://sp-mod.com/mod/3396/qnas-qnebs-adjustment-suite",
+   "data": "17/11/2026 14:48 UTC"
+  },
   {
    "titulo": "Ammo Graph",
    "link": "https://sp-mod.com/mod/3393/ammo-graph",
@@ -438,12 +444,7 @@
    "titulo": "Fika Hub",
    "link": "https://sp-mod.com/mod/3343/fika-hub",
    "data": "10/11/2026 23:25 UTC"
-  },
-  {
-   "titulo": "US Army Ranks",
-   "link": "https://sp-mod.com/mod/3344/us-army-ranks",
-   "data": "10/11/2026 16:39 UTC"
   }
  ],
- "ultima_checagem": "17/11/2026 12:48 UTC"
+ "ultima_checagem": "17/11/2026 14:48 UTC"
 }
