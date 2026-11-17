@@ -192,9 +192,15 @@
   "https://sp-mod.com/mod/3389/complicated-character-core-early": "Complicated Character Core [EARLY]",
   "https://sp-mod.com/mod/3394/a-better-healthcare-system": "A Better Healthcare System",
   "https://sp-mod.com/mod/3393/ammo-graph": "Ammo Graph",
-  "https://sp-mod.com/mod/3396/qnas-qnebs-adjustment-suite": "QNAS — QNebs Adjustment Suite"
+  "https://sp-mod.com/mod/3396/qnas-qnebs-adjustment-suite": "QNAS — QNebs Adjustment Suite",
+  "https://sp-mod.com/mod/3398/ballistics": "Ballistics"
  },
  "novos": [
+  {
+   "titulo": "Ballistics",
+   "link": "https://sp-mod.com/mod/3398/ballistics",
+   "data": "17/11/2026 16:52 UTC"
+  },
   {
    "titulo": "QNAS — QNebs Adjustment Suite",
    "link": "https://sp-mod.com/mod/3396/qnas-qnebs-adjustment-suite",
@@ -439,12 +445,7 @@
    "titulo": "Healthy Inventory",
    "link": "https://sp-mod.com/mod/3346/healthy-inventory",
    "data": "11/11/2026 12:50 UTC"
-  },
-  {
-   "titulo": "Fika Hub",
-   "link": "https://sp-mod.com/mod/3343/fika-hub",
-   "data": "10/11/2026 23:25 UTC"
   }
  ],
- "ultima_checagem": "17/11/2026 14:48 UTC"
+ "ultima_checagem": "17/11/2026 16:52 UTC"
 }
