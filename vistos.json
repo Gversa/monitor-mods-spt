@@ -204,9 +204,15 @@
   "https://sp-mod.com/mod/3400/zm-raygunmk2": "ZM_RaygunMk2",
   "https://sp-mod.com/mod/3399/zm-wunderwaffe": "ZM_Wunderwaffe",
   "https://sp-mod.com/mod/3409/stripperclips": "StripperClips",
-  "https://sp-mod.com/mod/3408/devil-cultist-operator": "Devil - Cultist Operator"
+  "https://sp-mod.com/mod/3408/devil-cultist-operator": "Devil - Cultist Operator",
+  "https://sp-mod.com/mod/3410/show-me-the-plates": "Show Me The Plates"
  },
  "novos": [
+  {
+   "titulo": "Show Me The Plates",
+   "link": "https://sp-mod.com/mod/3410/show-me-the-plates",
+   "data": "18/11/2026 18:42 UTC"
+  },
   {
    "titulo": "Devil - Cultist Operator",
    "link": "https://sp-mod.com/mod/3408/devil-cultist-operator",
@@ -451,12 +457,7 @@
    "titulo": "World Mail Alerts",
    "link": "https://sp-mod.com/mod/3361/world-mail-alerts",
    "data": "13/11/2026 12:50 UTC"
-  },
-  {
-   "titulo": "HORIZON",
-   "link": "https://sp-mod.com/mod/3362/horizon",
-   "data": "13/11/2026 12:50 UTC"
   }
  ],
- "ultima_checagem": "18/11/2026 16:53 UTC"
+ "ultima_checagem": "18/11/2026 18:42 UTC"
 }
