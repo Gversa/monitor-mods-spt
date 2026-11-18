@@ -202,9 +202,21 @@
   "https://sp-mod.com/mod/3402/12-hour-time": "12 Hour Time",
   "https://sp-mod.com/mod/3401/enhancedtradersearch": "EnhancedTraderSearch",
   "https://sp-mod.com/mod/3400/zm-raygunmk2": "ZM_RaygunMk2",
-  "https://sp-mod.com/mod/3399/zm-wunderwaffe": "ZM_Wunderwaffe"
+  "https://sp-mod.com/mod/3399/zm-wunderwaffe": "ZM_Wunderwaffe",
+  "https://sp-mod.com/mod/3409/stripperclips": "StripperClips",
+  "https://sp-mod.com/mod/3408/devil-cultist-operator": "Devil - Cultist Operator"
  },
  "novos": [
+  {
+   "titulo": "Devil - Cultist Operator",
+   "link": "https://sp-mod.com/mod/3408/devil-cultist-operator",
+   "data": "18/11/2026 16:53 UTC"
+  },
+  {
+   "titulo": "StripperClips",
+   "link": "https://sp-mod.com/mod/3409/stripperclips",
+   "data": "18/11/2026 16:53 UTC"
+  },
   {
    "titulo": "ZM_Wunderwaffe",
    "link": "https://sp-mod.com/mod/3399/zm-wunderwaffe",
@@ -444,17 +456,7 @@
    "titulo": "HORIZON",
    "link": "https://sp-mod.com/mod/3362/horizon",
    "data": "13/11/2026 12:50 UTC"
-  },
-  {
-   "titulo": "Hideout Last Stand",
-   "link": "https://sp-mod.com/mod/3353/hideout-last-stand",
-   "data": "12/11/2026 12:51 UTC"
-  },
-  {
-   "titulo": "Bay 5",
-   "link": "https://sp-mod.com/mod/3354/bay-5",
-   "data": "12/11/2026 12:51 UTC"
   }
  ],
- "ultima_checagem": "18/11/2026 14:44 UTC"
+ "ultima_checagem": "18/11/2026 16:53 UTC"
 }
