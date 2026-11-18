@@ -205,9 +205,21 @@
   "https://sp-mod.com/mod/3399/zm-wunderwaffe": "ZM_Wunderwaffe",
   "https://sp-mod.com/mod/3409/stripperclips": "StripperClips",
   "https://sp-mod.com/mod/3408/devil-cultist-operator": "Devil - Cultist Operator",
-  "https://sp-mod.com/mod/3410/show-me-the-plates": "Show Me The Plates"
+  "https://sp-mod.com/mod/3410/show-me-the-plates": "Show Me The Plates",
+  "https://sp-mod.com/mod/3412/hjs-improved-tab-ui": "Hj's Improved Tab UI",
+  "https://sp-mod.com/mod/3411/arena-whitelist-off": "Arena Whitelist Off"
  },
  "novos": [
+  {
+   "titulo": "Arena Whitelist Off",
+   "link": "https://sp-mod.com/mod/3411/arena-whitelist-off",
+   "data": "18/11/2026 23:40 UTC"
+  },
+  {
+   "titulo": "Hj's Improved Tab UI",
+   "link": "https://sp-mod.com/mod/3412/hjs-improved-tab-ui",
+   "data": "18/11/2026 23:40 UTC"
+  },
   {
    "titulo": "Show Me The Plates",
    "link": "https://sp-mod.com/mod/3410/show-me-the-plates",
@@ -447,17 +459,7 @@
    "titulo": "ArenaGear",
    "link": "https://sp-mod.com/mod/3359/arenagear",
    "data": "13/11/2026 12:50 UTC"
-  },
-  {
-   "titulo": "Gravity",
-   "link": "https://sp-mod.com/mod/3360/gravity",
-   "data": "13/11/2026 12:50 UTC"
-  },
-  {
-   "titulo": "World Mail Alerts",
-   "link": "https://sp-mod.com/mod/3361/world-mail-alerts",
-   "data": "13/11/2026 12:50 UTC"
   }
  ],
- "ultima_checagem": "18/11/2026 18:42 UTC"
+ "ultima_checagem": "18/11/2026 23:40 UTC"
 }
