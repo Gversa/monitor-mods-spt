@@ -207,9 +207,39 @@
   "https://sp-mod.com/mod/3408/devil-cultist-operator": "Devil - Cultist Operator",
   "https://sp-mod.com/mod/3410/show-me-the-plates": "Show Me The Plates",
   "https://sp-mod.com/mod/3412/hjs-improved-tab-ui": "Hj's Improved Tab UI",
-  "https://sp-mod.com/mod/3411/arena-whitelist-off": "Arena Whitelist Off"
+  "https://sp-mod.com/mod/3411/arena-whitelist-off": "Arena Whitelist Off",
+  "https://sp-mod.com/mod/3418/howa-type-64-redux": "Howa Type 64 Redux",
+  "https://sp-mod.com/mod/3417/shared-hideout": "Shared Hideout",
+  "https://sp-mod.com/mod/3416/shared-synced-quests": "Shared / Synced Quests",
+  "https://sp-mod.com/mod/3415/extended-mags-unofficial": "Extended Mags Unofficial",
+  "https://sp-mod.com/mod/3414/phoenix-drx": "Phoenix DRX"
  },
  "novos": [
+  {
+   "titulo": "Phoenix DRX",
+   "link": "https://sp-mod.com/mod/3414/phoenix-drx",
+   "data": "19/11/2026 12:56 UTC"
+  },
+  {
+   "titulo": "Extended Mags Unofficial",
+   "link": "https://sp-mod.com/mod/3415/extended-mags-unofficial",
+   "data": "19/11/2026 12:56 UTC"
+  },
+  {
+   "titulo": "Shared / Synced Quests",
+   "link": "https://sp-mod.com/mod/3416/shared-synced-quests",
+   "data": "19/11/2026 12:56 UTC"
+  },
+  {
+   "titulo": "Shared Hideout",
+   "link": "https://sp-mod.com/mod/3417/shared-hideout",
+   "data": "19/11/2026 12:56 UTC"
+  },
+  {
+   "titulo": "Howa Type 64 Redux",
+   "link": "https://sp-mod.com/mod/3418/howa-type-64-redux",
+   "data": "19/11/2026 12:56 UTC"
+  },
   {
    "titulo": "Arena Whitelist Off",
    "link": "https://sp-mod.com/mod/3411/arena-whitelist-off",
@@ -434,32 +464,7 @@
    "titulo": "Kirisame Mag Reload — in-place magazine swap & no-drop fix",
    "link": "https://sp-mod.com/mod/3364/kirisame-mag-reload-in-place-magazine-swap-no-drop-fix",
    "data": "13/11/2026 23:30 UTC"
-  },
-  {
-   "titulo": "Aero's Movement",
-   "link": "https://sp-mod.com/mod/3365/aeros-movement",
-   "data": "13/11/2026 23:30 UTC"
-  },
-  {
-   "titulo": "Aero's Grenading",
-   "link": "https://sp-mod.com/mod/3366/aeros-grenading",
-   "data": "13/11/2026 23:30 UTC"
-  },
-  {
-   "titulo": "Real Sound Simulation",
-   "link": "https://sp-mod.com/mod/3367/real-sound-simulation",
-   "data": "13/11/2026 23:30 UTC"
-  },
-  {
-   "titulo": "GamePanelHUD",
-   "link": "https://sp-mod.com/mod/3358/gamepanelhud",
-   "data": "13/11/2026 12:50 UTC"
-  },
-  {
-   "titulo": "ArenaGear",
-   "link": "https://sp-mod.com/mod/3359/arenagear",
-   "data": "13/11/2026 12:50 UTC"
   }
  ],
- "ultima_checagem": "18/11/2026 23:40 UTC"
+ "ultima_checagem": "19/11/2026 12:56 UTC"
 }
