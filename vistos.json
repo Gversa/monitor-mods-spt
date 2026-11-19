@@ -212,9 +212,27 @@
   "https://sp-mod.com/mod/3417/shared-hideout": "Shared Hideout",
   "https://sp-mod.com/mod/3416/shared-synced-quests": "Shared / Synced Quests",
   "https://sp-mod.com/mod/3415/extended-mags-unofficial": "Extended Mags Unofficial",
-  "https://sp-mod.com/mod/3414/phoenix-drx": "Phoenix DRX"
+  "https://sp-mod.com/mod/3414/phoenix-drx": "Phoenix DRX",
+  "https://sp-mod.com/mod/3421/armor-durability-multiplier": "Armor Durability Multiplier",
+  "https://sp-mod.com/mod/3420/perun": "Perun",
+  "https://sp-mod.com/mod/3419/bot-health-tweaker": "Bot Health Tweaker"
  },
  "novos": [
+  {
+   "titulo": "Bot Health Tweaker",
+   "link": "https://sp-mod.com/mod/3419/bot-health-tweaker",
+   "data": "19/11/2026 14:43 UTC"
+  },
+  {
+   "titulo": "Perun",
+   "link": "https://sp-mod.com/mod/3420/perun",
+   "data": "19/11/2026 14:43 UTC"
+  },
+  {
+   "titulo": "Armor Durability Multiplier",
+   "link": "https://sp-mod.com/mod/3421/armor-durability-multiplier",
+   "data": "19/11/2026 14:43 UTC"
+  },
   {
    "titulo": "Phoenix DRX",
    "link": "https://sp-mod.com/mod/3414/phoenix-drx",
@@ -449,22 +467,7 @@
    "titulo": "Manimal's Halloween 2026 Backport",
    "link": "https://sp-mod.com/mod/3369/manimals-halloween-2026-backport",
    "data": "14/11/2026 12:31 UTC"
-  },
-  {
-   "titulo": "The Bot Loading Freeze Fix",
-   "link": "https://sp-mod.com/mod/3370/the-bot-loading-freeze-fix",
-   "data": "14/11/2026 12:31 UTC"
-  },
-  {
-   "titulo": "Anarchy Flea",
-   "link": "https://sp-mod.com/mod/3363/anarchy-flea",
-   "data": "13/11/2026 23:30 UTC"
-  },
-  {
-   "titulo": "Kirisame Mag Reload — in-place magazine swap & no-drop fix",
-   "link": "https://sp-mod.com/mod/3364/kirisame-mag-reload-in-place-magazine-swap-no-drop-fix",
-   "data": "13/11/2026 23:30 UTC"
   }
  ],
- "ultima_checagem": "19/11/2026 12:56 UTC"
+ "ultima_checagem": "19/11/2026 14:43 UTC"
 }
