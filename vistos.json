@@ -217,9 +217,27 @@
   "https://sp-mod.com/mod/3420/perun": "Perun",
   "https://sp-mod.com/mod/3419/bot-health-tweaker": "Bot Health Tweaker",
   "https://sp-mod.com/mod/3423/grand-tushonka-auto-6": "Grand Tushonka Auto 6",
-  "https://sp-mod.com/mod/3422/wtt-legends": "WTT-Legends"
+  "https://sp-mod.com/mod/3422/wtt-legends": "WTT-Legends",
+  "https://sp-mod.com/mod/3426/wheres-my-body": "WHERES MY BODY?",
+  "https://sp-mod.com/mod/3425/customs-classic": "Customs Classic",
+  "https://sp-mod.com/mod/3424/mod-pulse": "Mod Pulse"
  },
  "novos": [
+  {
+   "titulo": "Mod Pulse",
+   "link": "https://sp-mod.com/mod/3424/mod-pulse",
+   "data": "20/11/2026 12:52 UTC"
+  },
+  {
+   "titulo": "Customs Classic",
+   "link": "https://sp-mod.com/mod/3425/customs-classic",
+   "data": "20/11/2026 12:52 UTC"
+  },
+  {
+   "titulo": "WHERES MY BODY?",
+   "link": "https://sp-mod.com/mod/3426/wheres-my-body",
+   "data": "20/11/2026 12:52 UTC"
+  },
   {
    "titulo": "WTT-Legends",
    "link": "https://sp-mod.com/mod/3422/wtt-legends",
@@ -454,22 +472,7 @@
    "titulo": "Weapon Parts Stats Display (WPSD)",
    "link": "https://sp-mod.com/mod/3374/weapon-parts-stats-display-wpsd",
    "data": "14/11/2026 23:25 UTC"
-  },
-  {
-   "titulo": "Killionaire",
-   "link": "https://sp-mod.com/mod/3371/killionaire",
-   "data": "14/11/2026 18:27 UTC"
-  },
-  {
-   "titulo": "Real Sound Simulation (BETA)",
-   "link": "https://sp-mod.com/mod/3367/real-sound-simulation-beta",
-   "data": "14/11/2026 16:28 UTC"
-  },
-  {
-   "titulo": "World Mail Alerts - History & Money Graph -> Add 16 Translations",
-   "link": "https://sp-mod.com/mod/3361/world-mail-alerts-history-money-graph-add-16-translations",
-   "data": "14/11/2026 12:31 UTC"
   }
  ],
- "ultima_checagem": "19/11/2026 23:34 UTC"
+ "ultima_checagem": "20/11/2026 12:52 UTC"
 }
