@@ -223,9 +223,27 @@
   "https://sp-mod.com/mod/3424/mod-pulse": "Mod Pulse",
   "https://sp-mod.com/mod/3429/sentinel-link": "SENTINEL LINK",
   "https://sp-mod.com/mod/3427/scope-handjob": "Scope Handjob",
-  "https://sp-mod.com/mod/3431/stancewheelplus": "StanceWheelPlus"
+  "https://sp-mod.com/mod/3431/stancewheelplus": "StanceWheelPlus",
+  "https://sp-mod.com/mod/3434/fums-13-customs-backport": "Fums' 1.3 Customs Backport",
+  "https://sp-mod.com/mod/3433/unlocked-hideout-lights": "Unlocked Hideout Lights",
+  "https://sp-mod.com/mod/3432/choose-2-extract": "Choose 2 Extract"
  },
  "novos": [
+  {
+   "titulo": "Choose 2 Extract",
+   "link": "https://sp-mod.com/mod/3432/choose-2-extract",
+   "data": "21/11/2026 18:31 UTC"
+  },
+  {
+   "titulo": "Unlocked Hideout Lights",
+   "link": "https://sp-mod.com/mod/3433/unlocked-hideout-lights",
+   "data": "21/11/2026 18:31 UTC"
+  },
+  {
+   "titulo": "Fums' 1.3 Customs Backport",
+   "link": "https://sp-mod.com/mod/3434/fums-13-customs-backport",
+   "data": "21/11/2026 18:31 UTC"
+  },
   {
    "titulo": "StanceWheelPlus",
    "link": "https://sp-mod.com/mod/3431/stancewheelplus",
@@ -460,22 +478,7 @@
    "titulo": "Adaptive Trader UI",
    "link": "https://sp-mod.com/mod/3377/adaptive-trader-ui",
    "data": "15/11/2026 12:33 UTC"
-  },
-  {
-   "titulo": "Hideout Posters",
-   "link": "https://sp-mod.com/mod/3378/hideout-posters",
-   "data": "15/11/2026 12:33 UTC"
-  },
-  {
-   "titulo": "WWC - Wet Works Company",
-   "link": "https://sp-mod.com/mod/3379/wwc-wet-works-company",
-   "data": "15/11/2026 12:33 UTC"
-  },
-  {
-   "titulo": "Supine Position",
-   "link": "https://sp-mod.com/mod/3381/supine-position",
-   "data": "15/11/2026 12:33 UTC"
   }
  ],
- "ultima_checagem": "21/11/2026 16:35 UTC"
+ "ultima_checagem": "21/11/2026 18:31 UTC"
 }
