@@ -220,9 +220,21 @@
   "https://sp-mod.com/mod/3422/wtt-legends": "WTT-Legends",
   "https://sp-mod.com/mod/3426/wheres-my-body": "WHERES MY BODY?",
   "https://sp-mod.com/mod/3425/customs-classic": "Customs Classic",
-  "https://sp-mod.com/mod/3424/mod-pulse": "Mod Pulse"
+  "https://sp-mod.com/mod/3424/mod-pulse": "Mod Pulse",
+  "https://sp-mod.com/mod/3429/sentinel-link": "SENTINEL LINK",
+  "https://sp-mod.com/mod/3427/scope-handjob": "Scope Handjob"
  },
  "novos": [
+  {
+   "titulo": "Scope Handjob",
+   "link": "https://sp-mod.com/mod/3427/scope-handjob",
+   "data": "21/11/2026 12:40 UTC"
+  },
+  {
+   "titulo": "SENTINEL LINK",
+   "link": "https://sp-mod.com/mod/3429/sentinel-link",
+   "data": "21/11/2026 12:40 UTC"
+  },
   {
    "titulo": "Mod Pulse",
    "link": "https://sp-mod.com/mod/3424/mod-pulse",
@@ -462,17 +474,7 @@
    "titulo": "Total Optimization",
    "link": "https://sp-mod.com/mod/3372/total-optimization",
    "data": "14/11/2026 23:25 UTC"
-  },
-  {
-   "titulo": "Satellite",
-   "link": "https://sp-mod.com/mod/3373/satellite",
-   "data": "14/11/2026 23:25 UTC"
-  },
-  {
-   "titulo": "Weapon Parts Stats Display (WPSD)",
-   "link": "https://sp-mod.com/mod/3374/weapon-parts-stats-display-wpsd",
-   "data": "14/11/2026 23:25 UTC"
   }
  ],
- "ultima_checagem": "20/11/2026 23:37 UTC"
+ "ultima_checagem": "21/11/2026 12:40 UTC"
 }
