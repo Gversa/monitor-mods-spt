@@ -222,9 +222,15 @@
   "https://sp-mod.com/mod/3425/customs-classic": "Customs Classic",
   "https://sp-mod.com/mod/3424/mod-pulse": "Mod Pulse",
   "https://sp-mod.com/mod/3429/sentinel-link": "SENTINEL LINK",
-  "https://sp-mod.com/mod/3427/scope-handjob": "Scope Handjob"
+  "https://sp-mod.com/mod/3427/scope-handjob": "Scope Handjob",
+  "https://sp-mod.com/mod/3431/stancewheelplus": "StanceWheelPlus"
  },
  "novos": [
+  {
+   "titulo": "StanceWheelPlus",
+   "link": "https://sp-mod.com/mod/3431/stancewheelplus",
+   "data": "21/11/2026 14:40 UTC"
+  },
   {
    "titulo": "Scope Handjob",
    "link": "https://sp-mod.com/mod/3427/scope-handjob",
@@ -469,12 +475,7 @@
    "titulo": "Supine Position",
    "link": "https://sp-mod.com/mod/3381/supine-position",
    "data": "15/11/2026 12:33 UTC"
-  },
-  {
-   "titulo": "Total Optimization",
-   "link": "https://sp-mod.com/mod/3372/total-optimization",
-   "data": "14/11/2026 23:25 UTC"
   }
  ],
- "ultima_checagem": "21/11/2026 12:40 UTC"
+ "ultima_checagem": "21/11/2026 14:40 UTC"
 }
