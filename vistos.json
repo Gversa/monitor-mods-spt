@@ -232,9 +232,15 @@
   "https://sp-mod.com/mod/3436/custom-soundtrack": "Custom Soundtrack",
   "https://sp-mod.com/mod/3435/exhausted-sprint": "Exhausted Sprint",
   "https://sp-mod.com/mod/3440/aftermath-beta": "Aftermath (BETA)",
-  "https://sp-mod.com/mod/3437/exoskeleton-from-tushonkagroup": "Exoskeleton From TushonkaGroup"
+  "https://sp-mod.com/mod/3437/exoskeleton-from-tushonkagroup": "Exoskeleton From TushonkaGroup",
+  "https://sp-mod.com/mod/3441/stash-liquidation": "Stash Liquidation"
  },
  "novos": [
+  {
+   "titulo": "Stash Liquidation",
+   "link": "https://sp-mod.com/mod/3441/stash-liquidation",
+   "data": "22/11/2026 16:36 UTC"
+  },
   {
    "titulo": "Exoskeleton From TushonkaGroup",
    "link": "https://sp-mod.com/mod/3437/exoskeleton-from-tushonkagroup",
@@ -479,12 +485,7 @@
    "titulo": "SOCOM Expansion Core",
    "link": "https://sp-mod.com/mod/3385/socom-expansion-core",
    "data": "15/11/2026 23:35 UTC"
-  },
-  {
-   "titulo": "Shoreline Hay Field",
-   "link": "https://sp-mod.com/mod/3386/shoreline-hay-field",
-   "data": "15/11/2026 23:35 UTC"
   }
  ],
- "ultima_checagem": "22/11/2026 14:40 UTC"
+ "ultima_checagem": "22/11/2026 16:36 UTC"
 }
