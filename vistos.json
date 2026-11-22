@@ -234,9 +234,33 @@
   "https://sp-mod.com/mod/3440/aftermath-beta": "Aftermath (BETA)",
   "https://sp-mod.com/mod/3437/exoskeleton-from-tushonkagroup": "Exoskeleton From TushonkaGroup",
   "https://sp-mod.com/mod/3441/stash-liquidation": "Stash Liquidation",
-  "https://sp-mod.com/mod/3444/kel-tec-ksg-12-spt-41-port": "Kel-Tec KSG-12 - SPT 4.1 Port"
+  "https://sp-mod.com/mod/3444/kel-tec-ksg-12-spt-41-port": "Kel-Tec KSG-12 - SPT 4.1 Port",
+  "https://sp-mod.com/mod/3447/mercy": "Mercy",
+  "https://sp-mod.com/mod/3446/one-click-raid-loot-sorting": "One Click Raid Loot Sorting",
+  "https://sp-mod.com/mod/3445/component-wear": "Component Wear",
+  "https://sp-mod.com/mod/3443/comet": "COMET"
  },
  "novos": [
+  {
+   "titulo": "COMET",
+   "link": "https://sp-mod.com/mod/3443/comet",
+   "data": "22/11/2026 23:32 UTC"
+  },
+  {
+   "titulo": "Component Wear",
+   "link": "https://sp-mod.com/mod/3445/component-wear",
+   "data": "22/11/2026 23:32 UTC"
+  },
+  {
+   "titulo": "One Click Raid Loot Sorting",
+   "link": "https://sp-mod.com/mod/3446/one-click-raid-loot-sorting",
+   "data": "22/11/2026 23:32 UTC"
+  },
+  {
+   "titulo": "Mercy",
+   "link": "https://sp-mod.com/mod/3447/mercy",
+   "data": "22/11/2026 23:32 UTC"
+  },
   {
    "titulo": "Kel-Tec KSG-12 - SPT 4.1 Port",
    "link": "https://sp-mod.com/mod/3444/kel-tec-ksg-12-spt-41-port",
@@ -466,27 +490,7 @@
    "titulo": "Complicated Character Core [EARLY]",
    "link": "https://sp-mod.com/mod/3389/complicated-character-core-early",
    "data": "16/11/2026 14:46 UTC"
-  },
-  {
-   "titulo": "Realistic Thermal Scopes — Unofficial SPT 4.1.6 Port",
-   "link": "https://sp-mod.com/mod/3390/realistic-thermal-scopes-unofficial-spt-416-port",
-   "data": "16/11/2026 14:46 UTC"
-  },
-  {
-   "titulo": "DLC - COD Head Pack 1",
-   "link": "https://sp-mod.com/mod/3391/dlc-cod-head-pack-1",
-   "data": "16/11/2026 14:46 UTC"
-  },
-  {
-   "titulo": "Hideout Posters - [BETA]",
-   "link": "https://sp-mod.com/mod/3378/hideout-posters-beta",
-   "data": "15/11/2026 23:35 UTC"
-  },
-  {
-   "titulo": "Stat Index",
-   "link": "https://sp-mod.com/mod/3384/stat-index",
-   "data": "15/11/2026 23:35 UTC"
   }
  ],
- "ultima_checagem": "22/11/2026 18:33 UTC"
+ "ultima_checagem": "22/11/2026 23:32 UTC"
 }
