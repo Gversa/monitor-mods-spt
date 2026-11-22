@@ -230,9 +230,21 @@
   "https://sp-mod.com/mod/3439/air-filter-only-drains-in-raid": "Air Filter Only Drains in Raid",
   "https://sp-mod.com/mod/3438/gaussian-shotgun-pattern": "Gaussian Shotgun Pattern",
   "https://sp-mod.com/mod/3436/custom-soundtrack": "Custom Soundtrack",
-  "https://sp-mod.com/mod/3435/exhausted-sprint": "Exhausted Sprint"
+  "https://sp-mod.com/mod/3435/exhausted-sprint": "Exhausted Sprint",
+  "https://sp-mod.com/mod/3440/aftermath-beta": "Aftermath (BETA)",
+  "https://sp-mod.com/mod/3437/exoskeleton-from-tushonkagroup": "Exoskeleton From TushonkaGroup"
  },
  "novos": [
+  {
+   "titulo": "Exoskeleton From TushonkaGroup",
+   "link": "https://sp-mod.com/mod/3437/exoskeleton-from-tushonkagroup",
+   "data": "22/11/2026 12:40 UTC"
+  },
+  {
+   "titulo": "Aftermath (BETA)",
+   "link": "https://sp-mod.com/mod/3440/aftermath-beta",
+   "data": "22/11/2026 12:40 UTC"
+  },
   {
    "titulo": "Exhausted Sprint",
    "link": "https://sp-mod.com/mod/3435/exhausted-sprint",
@@ -472,17 +484,7 @@
    "titulo": "Shoreline Hay Field",
    "link": "https://sp-mod.com/mod/3386/shoreline-hay-field",
    "data": "15/11/2026 23:35 UTC"
-  },
-  {
-   "titulo": "SOCOM GENESIS-12",
-   "link": "https://sp-mod.com/mod/3387/socom-genesis-12",
-   "data": "15/11/2026 23:35 UTC"
-  },
-  {
-   "titulo": "Tushonka Horsey",
-   "link": "https://sp-mod.com/mod/3383/tushonka-horsey",
-   "data": "15/11/2026 18:29 UTC"
   }
  ],
- "ultima_checagem": "21/11/2026 23:28 UTC"
+ "ultima_checagem": "22/11/2026 12:40 UTC"
 }
