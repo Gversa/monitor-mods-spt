@@ -238,9 +238,51 @@
   "https://sp-mod.com/mod/3447/mercy": "Mercy",
   "https://sp-mod.com/mod/3446/one-click-raid-loot-sorting": "One Click Raid Loot Sorting",
   "https://sp-mod.com/mod/3445/component-wear": "Component Wear",
-  "https://sp-mod.com/mod/3443/comet": "COMET"
+  "https://sp-mod.com/mod/3443/comet": "COMET",
+  "https://sp-mod.com/mod/3454/hawkss-m135-arges-minigun": "Hawks's M135 Arges Minigun",
+  "https://sp-mod.com/mod/3453/nicotine": "Nicotine",
+  "https://sp-mod.com/mod/3452/juggernaut-from-tushonkagroup": "Juggernaut From TushonkaGroup",
+  "https://sp-mod.com/mod/3451/rediscovered-loot-fix": "Rediscovered Loot Fix",
+  "https://sp-mod.com/mod/3449/hoxton-the-british-gentleman": "Hoxton the British Gentleman",
+  "https://sp-mod.com/mod/3448/hide-armor": "Hide Armor",
+  "https://sp-mod.com/mod/3441/one-click-sell-nested-loot": "One Click Sell Nested Loot"
  },
  "novos": [
+  {
+   "titulo": "One Click Sell Nested Loot",
+   "link": "https://sp-mod.com/mod/3441/one-click-sell-nested-loot",
+   "data": "23/11/2026 23:16 UTC"
+  },
+  {
+   "titulo": "Hide Armor",
+   "link": "https://sp-mod.com/mod/3448/hide-armor",
+   "data": "23/11/2026 23:16 UTC"
+  },
+  {
+   "titulo": "Hoxton the British Gentleman",
+   "link": "https://sp-mod.com/mod/3449/hoxton-the-british-gentleman",
+   "data": "23/11/2026 23:16 UTC"
+  },
+  {
+   "titulo": "Rediscovered Loot Fix",
+   "link": "https://sp-mod.com/mod/3451/rediscovered-loot-fix",
+   "data": "23/11/2026 23:16 UTC"
+  },
+  {
+   "titulo": "Juggernaut From TushonkaGroup",
+   "link": "https://sp-mod.com/mod/3452/juggernaut-from-tushonkagroup",
+   "data": "23/11/2026 23:16 UTC"
+  },
+  {
+   "titulo": "Nicotine",
+   "link": "https://sp-mod.com/mod/3453/nicotine",
+   "data": "23/11/2026 23:16 UTC"
+  },
+  {
+   "titulo": "Hawks's M135 Arges Minigun",
+   "link": "https://sp-mod.com/mod/3454/hawkss-m135-arges-minigun",
+   "data": "23/11/2026 23:16 UTC"
+  },
   {
    "titulo": "COMET",
    "link": "https://sp-mod.com/mod/3443/comet",
@@ -455,42 +497,7 @@
    "titulo": "Hideout Redux",
    "link": "https://sp-mod.com/mod/3405/hideout-redux",
    "data": "18/11/2026 12:54 UTC"
-  },
-  {
-   "titulo": "Better Expanded Arena & Quality Overhaul",
-   "link": "https://sp-mod.com/mod/3406/better-expanded-arena-quality-overhaul",
-   "data": "18/11/2026 12:54 UTC"
-  },
-  {
-   "titulo": "Emotes!",
-   "link": "https://sp-mod.com/mod/3407/emotes",
-   "data": "18/11/2026 12:54 UTC"
-  },
-  {
-   "titulo": "Ballistics",
-   "link": "https://sp-mod.com/mod/3398/ballistics",
-   "data": "17/11/2026 16:52 UTC"
-  },
-  {
-   "titulo": "QNAS — QNebs Adjustment Suite",
-   "link": "https://sp-mod.com/mod/3396/qnas-qnebs-adjustment-suite",
-   "data": "17/11/2026 14:48 UTC"
-  },
-  {
-   "titulo": "Ammo Graph",
-   "link": "https://sp-mod.com/mod/3393/ammo-graph",
-   "data": "16/11/2026 23:33 UTC"
-  },
-  {
-   "titulo": "A Better Healthcare System",
-   "link": "https://sp-mod.com/mod/3394/a-better-healthcare-system",
-   "data": "16/11/2026 18:44 UTC"
-  },
-  {
-   "titulo": "Complicated Character Core [EARLY]",
-   "link": "https://sp-mod.com/mod/3389/complicated-character-core-early",
-   "data": "16/11/2026 14:46 UTC"
   }
  ],
- "ultima_checagem": "22/11/2026 23:32 UTC"
+ "ultima_checagem": "23/11/2026 23:16 UTC"
 }
