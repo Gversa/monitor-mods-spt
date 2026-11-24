@@ -245,9 +245,39 @@
   "https://sp-mod.com/mod/3451/rediscovered-loot-fix": "Rediscovered Loot Fix",
   "https://sp-mod.com/mod/3449/hoxton-the-british-gentleman": "Hoxton the British Gentleman",
   "https://sp-mod.com/mod/3448/hide-armor": "Hide Armor",
-  "https://sp-mod.com/mod/3441/one-click-sell-nested-loot": "One Click Sell Nested Loot"
+  "https://sp-mod.com/mod/3441/one-click-sell-nested-loot": "One Click Sell Nested Loot",
+  "https://sp-mod.com/mod/3460/v-os-ecu-expanded-crafting-ui": "[V_OS] ECU - Expanded Crafting UI",
+  "https://sp-mod.com/mod/3459/hawkss-ballistic-shields": "Hawks's Ballistic Shields",
+  "https://sp-mod.com/mod/3458/fast-bot-loadouts": "Fast Bot Loadouts",
+  "https://sp-mod.com/mod/3457/escape-with-pulchra": "Escape With Pulchra",
+  "https://sp-mod.com/mod/3455/tushonka-most-wanted": "Tushonka: Most Wanted"
  },
  "novos": [
+  {
+   "titulo": "Tushonka: Most Wanted",
+   "link": "https://sp-mod.com/mod/3455/tushonka-most-wanted",
+   "data": "24/11/2026 21:51 UTC"
+  },
+  {
+   "titulo": "Escape With Pulchra",
+   "link": "https://sp-mod.com/mod/3457/escape-with-pulchra",
+   "data": "24/11/2026 21:51 UTC"
+  },
+  {
+   "titulo": "Fast Bot Loadouts",
+   "link": "https://sp-mod.com/mod/3458/fast-bot-loadouts",
+   "data": "24/11/2026 21:51 UTC"
+  },
+  {
+   "titulo": "Hawks's Ballistic Shields",
+   "link": "https://sp-mod.com/mod/3459/hawkss-ballistic-shields",
+   "data": "24/11/2026 21:51 UTC"
+  },
+  {
+   "titulo": "[V_OS] ECU - Expanded Crafting UI",
+   "link": "https://sp-mod.com/mod/3460/v-os-ecu-expanded-crafting-ui",
+   "data": "24/11/2026 21:51 UTC"
+  },
   {
    "titulo": "One Click Sell Nested Loot",
    "link": "https://sp-mod.com/mod/3441/one-click-sell-nested-loot",
@@ -472,32 +502,7 @@
    "titulo": "ZM_RaygunMk2",
    "link": "https://sp-mod.com/mod/3400/zm-raygunmk2",
    "data": "18/11/2026 12:54 UTC"
-  },
-  {
-   "titulo": "EnhancedTraderSearch",
-   "link": "https://sp-mod.com/mod/3401/enhancedtradersearch",
-   "data": "18/11/2026 12:54 UTC"
-  },
-  {
-   "titulo": "12 Hour Time",
-   "link": "https://sp-mod.com/mod/3402/12-hour-time",
-   "data": "18/11/2026 12:54 UTC"
-  },
-  {
-   "titulo": "Lucky Scav Boombox",
-   "link": "https://sp-mod.com/mod/3403/lucky-scav-boombox",
-   "data": "18/11/2026 12:54 UTC"
-  },
-  {
-   "titulo": "Focus!",
-   "link": "https://sp-mod.com/mod/3404/focus",
-   "data": "18/11/2026 12:54 UTC"
-  },
-  {
-   "titulo": "Hideout Redux",
-   "link": "https://sp-mod.com/mod/3405/hideout-redux",
-   "data": "18/11/2026 12:54 UTC"
   }
  ],
- "ultima_checagem": "23/11/2026 23:16 UTC"
+ "ultima_checagem": "24/11/2026 21:51 UTC"
 }
