@@ -250,9 +250,33 @@
   "https://sp-mod.com/mod/3459/hawkss-ballistic-shields": "Hawks's Ballistic Shields",
   "https://sp-mod.com/mod/3458/fast-bot-loadouts": "Fast Bot Loadouts",
   "https://sp-mod.com/mod/3457/escape-with-pulchra": "Escape With Pulchra",
-  "https://sp-mod.com/mod/3455/tushonka-most-wanted": "Tushonka: Most Wanted"
+  "https://sp-mod.com/mod/3455/tushonka-most-wanted": "Tushonka: Most Wanted",
+  "https://sp-mod.com/mod/3465/cultist-circle-valuator": "Cultist Circle Valuator",
+  "https://sp-mod.com/mod/3464/better-tactical-devices-handling": "Better tactical devices handling",
+  "https://sp-mod.com/mod/3463/betterflashbang": "BetterFlashbang",
+  "https://sp-mod.com/mod/3461/welcome-gifts": "Welcome Gifts"
  },
  "novos": [
+  {
+   "titulo": "Welcome Gifts",
+   "link": "https://sp-mod.com/mod/3461/welcome-gifts",
+   "data": "25/11/2026 20:58 UTC"
+  },
+  {
+   "titulo": "BetterFlashbang",
+   "link": "https://sp-mod.com/mod/3463/betterflashbang",
+   "data": "25/11/2026 20:58 UTC"
+  },
+  {
+   "titulo": "Better tactical devices handling",
+   "link": "https://sp-mod.com/mod/3464/better-tactical-devices-handling",
+   "data": "25/11/2026 20:58 UTC"
+  },
+  {
+   "titulo": "Cultist Circle Valuator",
+   "link": "https://sp-mod.com/mod/3465/cultist-circle-valuator",
+   "data": "25/11/2026 20:58 UTC"
+  },
   {
    "titulo": "Tushonka: Most Wanted",
    "link": "https://sp-mod.com/mod/3455/tushonka-most-wanted",
@@ -482,27 +506,7 @@
    "titulo": "Show Me The Plates",
    "link": "https://sp-mod.com/mod/3410/show-me-the-plates",
    "data": "18/11/2026 18:42 UTC"
-  },
-  {
-   "titulo": "Devil - Cultist Operator",
-   "link": "https://sp-mod.com/mod/3408/devil-cultist-operator",
-   "data": "18/11/2026 16:53 UTC"
-  },
-  {
-   "titulo": "StripperClips",
-   "link": "https://sp-mod.com/mod/3409/stripperclips",
-   "data": "18/11/2026 16:53 UTC"
-  },
-  {
-   "titulo": "ZM_Wunderwaffe",
-   "link": "https://sp-mod.com/mod/3399/zm-wunderwaffe",
-   "data": "18/11/2026 12:54 UTC"
-  },
-  {
-   "titulo": "ZM_RaygunMk2",
-   "link": "https://sp-mod.com/mod/3400/zm-raygunmk2",
-   "data": "18/11/2026 12:54 UTC"
   }
  ],
- "ultima_checagem": "25/11/2026 05:12 UTC"
+ "ultima_checagem": "25/11/2026 20:58 UTC"
 }
