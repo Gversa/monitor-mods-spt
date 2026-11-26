@@ -254,9 +254,21 @@
   "https://sp-mod.com/mod/3465/cultist-circle-valuator": "Cultist Circle Valuator",
   "https://sp-mod.com/mod/3464/better-tactical-devices-handling": "Better tactical devices handling",
   "https://sp-mod.com/mod/3463/betterflashbang": "BetterFlashbang",
-  "https://sp-mod.com/mod/3461/welcome-gifts": "Welcome Gifts"
+  "https://sp-mod.com/mod/3461/welcome-gifts": "Welcome Gifts",
+  "https://sp-mod.com/mod/3467/manimals-mask-maintenance": "Manimal's Mask Maintenance",
+  "https://sp-mod.com/mod/3466/skeleton-key": "Skeleton Key"
  },
  "novos": [
+  {
+   "titulo": "Skeleton Key",
+   "link": "https://sp-mod.com/mod/3466/skeleton-key",
+   "data": "26/11/2026 04:39 UTC"
+  },
+  {
+   "titulo": "Manimal's Mask Maintenance",
+   "link": "https://sp-mod.com/mod/3467/manimals-mask-maintenance",
+   "data": "26/11/2026 04:39 UTC"
+  },
   {
    "titulo": "Welcome Gifts",
    "link": "https://sp-mod.com/mod/3461/welcome-gifts",
@@ -496,17 +508,7 @@
    "titulo": "Arena Whitelist Off",
    "link": "https://sp-mod.com/mod/3411/arena-whitelist-off",
    "data": "18/11/2026 23:40 UTC"
-  },
-  {
-   "titulo": "Hj's Improved Tab UI",
-   "link": "https://sp-mod.com/mod/3412/hjs-improved-tab-ui",
-   "data": "18/11/2026 23:40 UTC"
-  },
-  {
-   "titulo": "Show Me The Plates",
-   "link": "https://sp-mod.com/mod/3410/show-me-the-plates",
-   "data": "18/11/2026 18:42 UTC"
   }
  ],
- "ultima_checagem": "25/11/2026 20:58 UTC"
+ "ultima_checagem": "26/11/2026 04:39 UTC"
 }
