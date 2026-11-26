@@ -256,9 +256,21 @@
   "https://sp-mod.com/mod/3463/betterflashbang": "BetterFlashbang",
   "https://sp-mod.com/mod/3461/welcome-gifts": "Welcome Gifts",
   "https://sp-mod.com/mod/3467/manimals-mask-maintenance": "Manimal's Mask Maintenance",
-  "https://sp-mod.com/mod/3466/skeleton-key": "Skeleton Key"
+  "https://sp-mod.com/mod/3466/skeleton-key": "Skeleton Key",
+  "https://sp-mod.com/mod/3469/l115": "L115",
+  "https://sp-mod.com/mod/3456/project-refresh": "Project Refresh"
  },
  "novos": [
+  {
+   "titulo": "Project Refresh",
+   "link": "https://sp-mod.com/mod/3456/project-refresh",
+   "data": "26/11/2026 20:50 UTC"
+  },
+  {
+   "titulo": "L115",
+   "link": "https://sp-mod.com/mod/3469/l115",
+   "data": "26/11/2026 20:50 UTC"
+  },
   {
    "titulo": "Skeleton Key",
    "link": "https://sp-mod.com/mod/3466/skeleton-key",
@@ -498,17 +510,7 @@
    "titulo": "Shared Hideout",
    "link": "https://sp-mod.com/mod/3417/shared-hideout",
    "data": "19/11/2026 12:56 UTC"
-  },
-  {
-   "titulo": "Howa Type 64 Redux",
-   "link": "https://sp-mod.com/mod/3418/howa-type-64-redux",
-   "data": "19/11/2026 12:56 UTC"
-  },
-  {
-   "titulo": "Arena Whitelist Off",
-   "link": "https://sp-mod.com/mod/3411/arena-whitelist-off",
-   "data": "18/11/2026 23:40 UTC"
   }
  ],
- "ultima_checagem": "26/11/2026 04:39 UTC"
+ "ultima_checagem": "26/11/2026 20:50 UTC"
 }
