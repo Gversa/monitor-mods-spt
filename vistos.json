@@ -261,9 +261,39 @@
   "https://sp-mod.com/mod/3456/project-refresh": "Project Refresh",
   "https://sp-mod.com/mod/3472/manimals-mag-drop-sound-backport": "Manimals Mag Drop Sound Backport",
   "https://sp-mod.com/mod/3471/tushonka-christmas-add-16-translations": "Tushonka-Christmas -> Add 16 Translations",
-  "https://sp-mod.com/mod/3470/hawkss-the-judge-410-revolver": "Hawks's \"The Judge\" .410 Revolver"
+  "https://sp-mod.com/mod/3470/hawkss-the-judge-410-revolver": "Hawks's \"The Judge\" .410 Revolver",
+  "https://sp-mod.com/mod/3478/legacy-armor": "Legacy Armor",
+  "https://sp-mod.com/mod/3477/morts-arsenal": "Mort’s Arsenal",
+  "https://sp-mod.com/mod/3476/make-it-found-in-raid": "Make It Found In Raid",
+  "https://sp-mod.com/mod/3474/stash-insure-all-sia": "Stash Insure All (SIA)",
+  "https://sp-mod.com/mod/3473/ai-aim-dodge": "AI Aim Dodge"
  },
  "novos": [
+  {
+   "titulo": "AI Aim Dodge",
+   "link": "https://sp-mod.com/mod/3473/ai-aim-dodge",
+   "data": "27/11/2026 20:35 UTC"
+  },
+  {
+   "titulo": "Stash Insure All (SIA)",
+   "link": "https://sp-mod.com/mod/3474/stash-insure-all-sia",
+   "data": "27/11/2026 20:35 UTC"
+  },
+  {
+   "titulo": "Make It Found In Raid",
+   "link": "https://sp-mod.com/mod/3476/make-it-found-in-raid",
+   "data": "27/11/2026 20:35 UTC"
+  },
+  {
+   "titulo": "Mort’s Arsenal",
+   "link": "https://sp-mod.com/mod/3477/morts-arsenal",
+   "data": "27/11/2026 20:35 UTC"
+  },
+  {
+   "titulo": "Legacy Armor",
+   "link": "https://sp-mod.com/mod/3478/legacy-armor",
+   "data": "27/11/2026 20:35 UTC"
+  },
   {
    "titulo": "Hawks's \"The Judge\" .410 Revolver",
    "link": "https://sp-mod.com/mod/3470/hawkss-the-judge-410-revolver",
@@ -488,32 +518,7 @@
    "titulo": "WTT-Legends",
    "link": "https://sp-mod.com/mod/3422/wtt-legends",
    "data": "19/11/2026 23:34 UTC"
-  },
-  {
-   "titulo": "Grand Tushonka Auto 6",
-   "link": "https://sp-mod.com/mod/3423/grand-tushonka-auto-6",
-   "data": "19/11/2026 23:34 UTC"
-  },
-  {
-   "titulo": "Bot Health Tweaker",
-   "link": "https://sp-mod.com/mod/3419/bot-health-tweaker",
-   "data": "19/11/2026 14:43 UTC"
-  },
-  {
-   "titulo": "Perun",
-   "link": "https://sp-mod.com/mod/3420/perun",
-   "data": "19/11/2026 14:43 UTC"
-  },
-  {
-   "titulo": "Armor Durability Multiplier",
-   "link": "https://sp-mod.com/mod/3421/armor-durability-multiplier",
-   "data": "19/11/2026 14:43 UTC"
-  },
-  {
-   "titulo": "Phoenix DRX",
-   "link": "https://sp-mod.com/mod/3414/phoenix-drx",
-   "data": "19/11/2026 12:56 UTC"
   }
  ],
- "ultima_checagem": "27/11/2026 04:43 UTC"
+ "ultima_checagem": "27/11/2026 20:35 UTC"
 }
