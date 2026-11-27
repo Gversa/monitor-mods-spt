@@ -258,9 +258,27 @@
   "https://sp-mod.com/mod/3467/manimals-mask-maintenance": "Manimal's Mask Maintenance",
   "https://sp-mod.com/mod/3466/skeleton-key": "Skeleton Key",
   "https://sp-mod.com/mod/3469/l115": "L115",
-  "https://sp-mod.com/mod/3456/project-refresh": "Project Refresh"
+  "https://sp-mod.com/mod/3456/project-refresh": "Project Refresh",
+  "https://sp-mod.com/mod/3472/manimals-mag-drop-sound-backport": "Manimals Mag Drop Sound Backport",
+  "https://sp-mod.com/mod/3471/tushonka-christmas-add-16-translations": "Tushonka-Christmas -> Add 16 Translations",
+  "https://sp-mod.com/mod/3470/hawkss-the-judge-410-revolver": "Hawks's \"The Judge\" .410 Revolver"
  },
  "novos": [
+  {
+   "titulo": "Hawks's \"The Judge\" .410 Revolver",
+   "link": "https://sp-mod.com/mod/3470/hawkss-the-judge-410-revolver",
+   "data": "27/11/2026 04:43 UTC"
+  },
+  {
+   "titulo": "Tushonka-Christmas -> Add 16 Translations",
+   "link": "https://sp-mod.com/mod/3471/tushonka-christmas-add-16-translations",
+   "data": "27/11/2026 04:43 UTC"
+  },
+  {
+   "titulo": "Manimals Mag Drop Sound Backport",
+   "link": "https://sp-mod.com/mod/3472/manimals-mag-drop-sound-backport",
+   "data": "27/11/2026 04:43 UTC"
+  },
   {
    "titulo": "Project Refresh",
    "link": "https://sp-mod.com/mod/3456/project-refresh",
@@ -495,22 +513,7 @@
    "titulo": "Phoenix DRX",
    "link": "https://sp-mod.com/mod/3414/phoenix-drx",
    "data": "19/11/2026 12:56 UTC"
-  },
-  {
-   "titulo": "Extended Mags Unofficial",
-   "link": "https://sp-mod.com/mod/3415/extended-mags-unofficial",
-   "data": "19/11/2026 12:56 UTC"
-  },
-  {
-   "titulo": "Shared / Synced Quests",
-   "link": "https://sp-mod.com/mod/3416/shared-synced-quests",
-   "data": "19/11/2026 12:56 UTC"
-  },
-  {
-   "titulo": "Shared Hideout",
-   "link": "https://sp-mod.com/mod/3417/shared-hideout",
-   "data": "19/11/2026 12:56 UTC"
   }
  ],
- "ultima_checagem": "26/11/2026 20:50 UTC"
+ "ultima_checagem": "27/11/2026 04:43 UTC"
 }
