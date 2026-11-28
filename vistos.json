@@ -266,9 +266,27 @@
   "https://sp-mod.com/mod/3477/morts-arsenal": "Mort’s Arsenal",
   "https://sp-mod.com/mod/3476/make-it-found-in-raid": "Make It Found In Raid",
   "https://sp-mod.com/mod/3474/stash-insure-all-sia": "Stash Insure All (SIA)",
-  "https://sp-mod.com/mod/3473/ai-aim-dodge": "AI Aim Dodge"
+  "https://sp-mod.com/mod/3473/ai-aim-dodge": "AI Aim Dodge",
+  "https://sp-mod.com/mod/3481/awesome-case-resizer": "Awesome Case Resizer",
+  "https://sp-mod.com/mod/3480/textures-how-i-want": "Textures How I Want",
+  "https://sp-mod.com/mod/3479/tactical-turn": "Tactical Turn"
  },
  "novos": [
+  {
+   "titulo": "Tactical Turn",
+   "link": "https://sp-mod.com/mod/3479/tactical-turn",
+   "data": "28/11/2026 04:28 UTC"
+  },
+  {
+   "titulo": "Textures How I Want",
+   "link": "https://sp-mod.com/mod/3480/textures-how-i-want",
+   "data": "28/11/2026 04:28 UTC"
+  },
+  {
+   "titulo": "Awesome Case Resizer",
+   "link": "https://sp-mod.com/mod/3481/awesome-case-resizer",
+   "data": "28/11/2026 04:28 UTC"
+  },
   {
    "titulo": "AI Aim Dodge",
    "link": "https://sp-mod.com/mod/3473/ai-aim-dodge",
@@ -503,22 +521,7 @@
    "titulo": "Mod Pulse",
    "link": "https://sp-mod.com/mod/3424/mod-pulse",
    "data": "20/11/2026 12:52 UTC"
-  },
-  {
-   "titulo": "Customs Classic",
-   "link": "https://sp-mod.com/mod/3425/customs-classic",
-   "data": "20/11/2026 12:52 UTC"
-  },
-  {
-   "titulo": "WHERES MY BODY?",
-   "link": "https://sp-mod.com/mod/3426/wheres-my-body",
-   "data": "20/11/2026 12:52 UTC"
-  },
-  {
-   "titulo": "WTT-Legends",
-   "link": "https://sp-mod.com/mod/3422/wtt-legends",
-   "data": "19/11/2026 23:34 UTC"
   }
  ],
- "ultima_checagem": "27/11/2026 20:35 UTC"
+ "ultima_checagem": "28/11/2026 04:28 UTC"
 }
